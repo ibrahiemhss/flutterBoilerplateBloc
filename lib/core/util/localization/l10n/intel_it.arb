@@ -1,0 +1,2215 @@
+{ "@@last_modified": "2019-12-23T20:52:46.498154",
+  "locale": "it",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_name_txt": "Hijozaty",
+  "@app_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_txt": "App",
+  "@app_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back_txt": "Indietro",
+  "@back_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_txt": "Pagina iniziale",
+  "@home_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_txt": "Cerca",
+  "@search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_txt": "Nome",
+  "@name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_internet_txt": "Nessuna connessione a Internet",
+  "@no_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_be_conncted_internet_txt": "Assicurati che il tuo dispositivo sia connesso a Internet",
+  "@warning_be_conncted_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "try_again_txt": "Riprova",
+  "@try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_txt": "Conferma",
+  "@confirm_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore_txt": "Ignora",
+  "@ignore_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "follow_us_on_txt": "Seguici su",
+  "@follow_us_on_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebook_txt": "FACEBOOK",
+  "@facebook_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "instagram_txt": "INSTAGRAM",
+  "@instagram_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_end_two_points_txt": "AIndirizzo :",
+  "@address_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_txt": "AIndirizzo",
+  "@address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_end_two_points_txt": "Telefono :",
+  "@phone_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_txt": "Città",
+  "@city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_txt": "Telefono",
+  "@phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_txt": "Chat",
+  "@chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chats_txt": "Chats",
+  "@chats_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_login_or_register_txt": "Effettua il login o registrati",
+  "@warning_login_or_register_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "one_period_txt": "Un periodo",
+  "@one_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_txt": "Cancella",
+  "@delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details_txt": "Dettagli",
+  "@details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close_txt": "Chiudi",
+  "@close_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "number_txt": "Numero",
+  "@number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_load_image_again_txt": "Fare clic per caricare\ndi nuovo l'immagine",
+  "@click_load_image_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh_txt": "Ricaricare",
+  "@refresh_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_txt": "Date",
+  "@date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_edits_txt": "Salva le modifiche",
+  "@save_edits_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "code_is_being_sent_loading_txt": "Il codice viene inviato durante il caricamento ..",
+  "@code_is_being_sent_loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hint_phone_txt": "Numero di telefono",
+  "@hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_hint_phone_txt": "Il numero di telefono personale non viene mostrato agli utenti",
+  "@dr_hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_appointment_txt": "Aggiungi appuntamento",
+  "@add_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unexpected_error_occurred_try_again_txt": "Si è verificato un errore, per favore riprovare",
+  "@unexpected_error_occurred_try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_registration_txt": "Nuova registrazione",
+  "@new_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_txt": "Login",
+  "@log_in_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip_txt": "Skype",
+  "@skip_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_txt": "Scegli il codice paese di seguito. Nel campo di inserimento, inserisci semplicemente il numero di telefono, senza il prefisso internazionale",
+  "@add_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_patient_txt": "Registrati come paziente",
+  "@register_as_patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_doctor_txt": "Registrati come medico",
+  "@register_as_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_pharmacist_txt": "Registrati come farmacista",
+  "@register_as_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_medical_assistant_txt": "Register as a medical assistant",
+  "@register_as_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_no_data_txt": "Nessun dato, ti preghiamo di riprovare più tardi",
+  "@warning_no_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_problem_loading_data_txt": "Si è verificato un problema durante il caricamento dei dati, riprova più tardi",
+  "@warning_problem_loading_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_weak_internet_txt": "La tua connessione Internet sembra molto debole",
+  "@warning_weak_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuation_txt": "Continua…",
+  "@continuation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_in_registration_txt": "Continua la registrazione ",
+  "@continue_in_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_location_not_found_txt": "L'indirizzo non è stato riconosciuto. Aggiungi l'indirizzo manualmente",
+  "@warning_location_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifying_working_info_txt": "Modifica delle informazioni di lavoro",
+  "@modifying_working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_info_txt": "Informazioni di lavoro",
+  "@working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving_txt": "Salvataggio...",
+  "@saving_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submission_in_progress_txt": "Invio in corso ...",
+  "@submission_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "professional_practice_number_txt": "Numero del certificato di pratica professionale",
+  "@professional_practice_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_authority_txt": "Autorità di certificazione",
+  "@certificate_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "graduation_date_txt": "Anno di Laurea",
+  "@graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_issued_at_txt": "Data di rilascio del certificato",
+  "@certificate_issued_at_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_txt": "Continua",
+  "@continue_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_name_txt": "Assicurati di inserire il tuo nome completo",
+  "@warning_add_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_address_txt": "Assicurati di inserire l'indirizzo",
+  "@warning_enter_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_your_city_txt": "Per favore, scegli la tua città",
+  "@choose_your_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_password_txt": "Per favore inserisci la password",
+  "@please_enter_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_short_password_txt": "Per favore inserisci una password di almeno 6 caratteri",
+  "@warning_short_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_ensure_enter_correct_password_txt": "Assicurati che la password sia riscritta correttamente",
+  "@warning_ensure_enter_correct_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provinces_txt": "Province",
+  "@provinces_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "province_txt": "Provincia",
+  "@province_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male_txt": "Uomo",
+  "@male_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female_txt": "Donna",
+  "@female_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undefined_txt": "Non definito",
+  "@undefined_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender_txt": "Seleziona genere",
+  "@select_gender_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_choose_city": "Per favore, scegli una città",
+  "@please_choose_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_the_phone_city": "Per favore inserisci il tuo numero di telefono",
+  "@please_enter_the_phone_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "img_added_txt": "Immagine inserita",
+  "@img_added_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up_txt": "Accedi",
+  "@sign_up_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_clinic_address_txt": "Inserisci l'indirizzo della clinica",
+  "@enter_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "practical_experiences_txt": "Esperienze pratiche e certificazioni",
+  "@practical_experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_checking_price_in_iraq_dinar_txt": "Prezzo del controllo medico (nel dinaro iracheno)",
+  "@medical_checking_price_in_iraq_dinar_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_specialization_txt": "Seleziona specializzazione",
+  "@select_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_txt": "Nome della clinica",
+  "@clinic_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_activate_chat_txt": "Vuoi attivare la chat?",
+  "@ask_activate_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_phone_txt": "Numero telefonico della clinica",
+  "@clinic_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_medical_specialization_txt": "aggiungere una specializzazione medica",
+  "@add_medical_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_name_of_the_clinic_txt": "Aggiungi il nome della clinica",
+  "@add_the_name_of_the_clinic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_price_txt": "aggiungere il prezzo",
+  "@add_the_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_phone_number_txt": "aggiungi il numero di telefono della clinica",
+  "@add_clinic_phone_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_address_txt": "aggiungi l'indirizzo della clinica",
+  "@add_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_txt": "Anni di esperienza ",
+  "@experience_years_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_in_btn": "Accedi",
+  "@sign_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify_txt": "Verifica",
+  "@verify_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verification_in_progress_txt": "Verifica in corso",
+  "@verification_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_phone_txt": "Numero di telefono xxx-xxx-xxx",
+  "@empty_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_phone_txt": "inserisci il numero di telefono in inglese",
+  "@enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_txt": "Email",
+  "@email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_txt": "Password",
+  "@password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_img_btn": "Inserisci la tua immagine",
+  "@add_img_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_send_verifi_etxt": "Il codice di verifica verrà inviato tra qualche istante",
+  "@will_send_verifi_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_code_etxt": "Inserisci il codice solo in inglese",
+  "@enter_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend_code_etxt": "Nuovo invio del codice",
+  "@resend_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_sent_code_etxt": "Se il codice non arriva, per favore",
+  "@not_sent_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_us_etxt": "Contattaci",
+  "@contact_us_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_etxt": "Contatto",
+  "@contact_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_name_etxt": "Inserisci il tuo nome completo",
+  "@enter_name_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_phone_msg_code_etxt": "Controlla il tuo telefono per il codice di verifica.",
+  "@check_phone_msg_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "re_enter_pass_etxt": "Inserisci di nuovo la password ",
+  "@re_enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_re_enter_pass_txt": "Assicurati di riscrivere la password correttamente",
+  "@warning_re_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_phone_txt": "Assicurati di aggiungere un numero di telefono",
+  "@warning_enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_correct_phone_txt": "Assicurati di aggiungere un numero di telefono corretto",
+  "@warning_add_correct_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_select_city_txt": "Clicca per selezionare una città",
+  "@click_select_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_residence_address_txt": "Inserisci il tuo indirizzo di residenza",
+  "@enter_residence_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_email_txt": "Inserisci la tua email",
+  "@enter_email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_number_txt": "Numero di certificato",
+  "@certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_professional_authority_txt": "Aggiungi una certificazione professionale",
+  "@warning_add_certificate_professional_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_number_txt": "Aggiungi il numero di certificato",
+  "@warning_add_certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_graduation_date_txt": "Aggiungi una data di laurea",
+  "@warning_add_graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy_policy_txt": "Informativa sulla Privacy",
+  "@privacy_policy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_privacy_txt": "Non è possibile registrarsi senza aver accettato l'informativa sulla privacy",
+  "@warning_accept_privacy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pharmacy_address_txt": "Inserisci l'indirizzo della farmacia",
+  "@enter_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_txt": "Nome della Farmacia",
+  "@pharmacy_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_txt": "Indirizzo della Farmacia",
+  "@pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_phone_txt": "Numero di telefono della Farmacia",
+  "@pharmacy_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_the_pharmacy_address_txt": "Aggiungere indirizzo della Farmacia",
+  "@warning_add_the_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_new_appointments_yet_txt": "Non ci sono ancora nuovi appuntamenti",
+  "@no_new_appointments_yet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "true_txt": "VERO",
+  "@true_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_txt": "Periodo lavorativo",
+  "@working_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_txt": "Primo periodo",
+  "@first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_txt": "Secondo periodo",
+  "@second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_period_txt": "Altro periodo",
+  "@other_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_changed_work_times_txt": "Sei sicuro di aver cambiato l'orario di lavoro come desideri?? !!",
+  "@warning_changed_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workdays_txt": "Giorni feriali",
+  "@workdays_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_adjust_working_times_txt": "Assicurati di adattare i tempi di lavoro secondo le tue esigenze con precisione",
+  "@warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "default_warning_adjust_working_times_txt": "Per impostazione predefinita, l'orario di lavoro è impostato come segue, vi preghiamo di modificarli in base alle vostre esigenze",
+  "@default_warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restore_day_txt": "Ripristina questo giorno",
+  "@restore_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_day_txt": "Elimina questo giorno",
+  "@delete_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restore_period_txt": "Ripristina questo periodo",
+  "@return_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_work_txt": "Inizio del lavoro",
+  "@start_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_work_txt": "Fine del lavoro",
+  "@end_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_txt": "Modifica",
+  "@edit_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_txt": "Fatto",
+  "@done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_time_txt": "Ora di inizio ",
+  "@start_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_time_txt": "Ora di fine",
+  "@end_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour_txt": "Ora",
+  "@hour_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute_txt": "Minuto",
+  "@minute_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_txt": "Mattina",
+  "@morning_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_txt": "Sera",
+  "@evening_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_work_times_txt": "Modifica orario di lavoro",
+  "@edit_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_times_txt": "Orario di lavoro",
+  "@work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_on_add_new_work_times_txt": "Assicurati di aver apportato le modifiche appropriate all'orario di lavoro o fai clic su Indietro",
+  "@warning_on_add_new_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_second_period_txt": "Aggiungi secondo periodo",
+  "@add_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_second_period_txt": "Elimina secondo periodo",
+  "@cancel_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_edit_birthdate_less20_txt": "La data di nascita non può essere modificata per un minimo di venti anni",
+  "@warning_edit_birthdate_less20_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday_txt": "Sabato",
+  "@saturday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday_txt": "Domenica",
+  "@sunday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday_txt": "Lunedì",
+  "@monday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday_txt": "Martedì",
+  "@tuesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday_txt": "Mercoledì",
+  "@wednesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday_txt": "Giovedì",
+  "@thursday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday_txt": "Venerdì",
+  "@friday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_username_etxt": "Per favore inserisci il tuo numero di telefono",
+  "@enter_username_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_btn": "Accedi",
+  "@log_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_account_btn": "Nuovo Account",
+  "@new_account_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot_pass_txt": "Dimenticato la tua password ",
+  "@forgot_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_username_txt": "Per favore inserisci il tuo numero di telefono",
+  "@snack_bar_enter_username_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_pass_txt": "Per favore inserisci la tua password",
+  "@snack_bar_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pass_etxt": "Inserisci la tua password ",
+  "@enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_times_txt": "I miei tempi",
+  "@my_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consulting_txt": "Consuelenza",
+  "@consulting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "international_services_txt": "Servizi internazionali ",
+  "@international_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_account_txt": "Il Mio Account",
+  "@my_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_txt": "Più",
+  "@more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "msg_from_txt": "Messaggio da",
+  "@msg_from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_reply_txt": "Per favore inserisci una risposta ?? !!",
+  "@warning_add_reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_closing_Hijozty_txt": "Conferma la chiusura di Hijozty",
+  "@confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warinig_confirm_closing_Hijozty_txt": "Sei sicuro di voler chiudere Hijozty",
+  "@warinig_confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_or_patient_name_txt": "Aggiungi un numero di telefono o il nome del paziente",
+  "@add_phone_or_patient_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_appointment_txt": "Conferma appuntamento",
+  "@confirm_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish_txt": "Pubblica",
+  "@publish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_title_txt": "Inserisci il titolo dell'argomento",
+  "@please_enter_topic_title_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_content_txt": "Inserisci il contenuto dell'argomento",
+  "@please_enter_topic_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_topic_content_length_txt": "Il contenuto dell'argomento deve essere di almeno 10 parole",
+  "@warning_topic_content_length_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provide_advice_txt": "Fornisci consulenza",
+  "@provide_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_for_advice_txt": "Chiedi per un consiglio",
+  "@ask_for_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "write_topic_detail_txt": "Scrivi i dettagli dell'argomento",
+  "@write_topic_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consultation_detail_txt": "Dettagli della riunione",
+  "@consultation_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reply_txt": "Risposta",
+  "@reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_cancel_appointment_txt": "Vuoi davvero annullare questo appuntamento?",
+  "@warning_cancel_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_cancel_txt": "Conferma la cancellazione",
+  "@confirm_cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic_txt": "Arabo",
+  "@arabic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kurdish_txt": "Kurdi",
+  "@kurdish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "russian_txt": "Russian",
+  "@russian_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english_txt": "English",
+  "@english_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "italy_txt": "Italy",
+  "@italy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_delete_txt": "Conferma eliminazione",
+  "@confirm_delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_content_txt": "Sei sicuro di voler eliminare questo contenuto?",
+  "@warning_delete_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "go_settings_txt": "Vai alle impostazioni",
+  "@go_settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "direct_contact_txt": "Contatto diretto",
+  "@direct_contact_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_not_found_txt": "App non trovata",
+  "@app_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_choose_date_txt": "Scorri per scegliere la data",
+  "@swipe_to_choose_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "time_ago_txt": "Tempo fa",
+  "@time_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "you_have_chosen_txt": "Tu hai scelto",
+  "@you_have_chosen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_ago_txt": "Tempo fa",
+  "@date_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recheck_txt": "Ricontrollare",
+  "@recheck_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_click_edit_rescheduling_txt": "Per confermare la riprogrammazione, fare clic su Modifica",
+  "@title_click_edit_rescheduling_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_not_possible_change_appointment_earlier_txt": "Non è possibile modificare l'appuntamento ad un orario precedente",
+  "@warning_not_possible_change_appointment_earlier_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_appropriate_period_by_clicking_on_the_period_txt": "Scegli il periodo più adatto a te facendo clic sul periodo",
+  "@choose_appropriate_period_by_clicking_on_the_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_on_image_to_zoom_txt": "Clicca sull'immagine per ingrandire",
+  "@click_on_image_to_zoom_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo_txt": "Annullare",
+  "@undo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_registration_txt": "Conferma la registrazione",
+  "@confirm_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_arrangement_error_periods_txt": "Un errore nell’organizzazione tra il mattino e al sera",
+  "@warning_arrangement_error_periods_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "correct_arrangement_txt": "Disposizione corretta",
+  "@correct_arrangement_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_end_of_the_first_period_txt": "Fine del primo periodo ",
+  "@the_end_of_the_first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "period_work_n_line_txt": "Periodo\nlavoro",
+  "@period_work_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_n_line_txt": "Primo\nperiodo",
+  "@first_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_n_line_txt": "Secondo\nperiodo",
+  "@second_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong_arrangement_n_line_txt": "Disposizione\nerrata",
+  "@wrong_arrangement_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_account_txt": "Account personale",
+  "@personal_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_txt": "Nome e Cognome",
+  "@full_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_end_two_points_txt": "Nome e Cognome :",
+  "@full_name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_end_two_points_txt": "Nome :",
+  "@name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_end_two_points_txt": "Data di nascita :",
+  "@birthdate_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_txt": "Data di nascita",
+  "@birthdate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender_end_two_points_txt": "Sesso :",
+  "@gender_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_end_two_points_txt": "Email :",
+  "@email_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_txt": "Carriera",
+  "@career_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_end_two_points_txt": "Carriera :",
+  "@career_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_image_txt": "Salva Immagine",
+  "@save_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_personal_info_txt": "Modifica le informazioni personali",
+  "@edit_personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_account_txt": "Elimina Account",
+  "@delete_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_txt": "Salva",
+  "@save_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_info_txt": "Informazioni personali",
+  "@personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note_request_publication_ad_txt": "Contattaci per pubblicare un annuncio",
+  "@note_request_publication_ad_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_info_txt": "Ulteriori informazioni",
+  "@more_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "advertising_txt": "Pubblicità",
+  "@advertising_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report_txt": "Report",
+  "@report_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "like_txt": "Mi piace",
+  "@like_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dislike_txt": "Non mi piace",
+  "@dislike_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages_txt": "Messaggi",
+  "@messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_messages_txt": "Nessun messaggio",
+  "@no_messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_user_txt": "Altri utenti",
+  "@other_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "a_long_time_txt": "Tanto tempo",
+  "@a_long_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_see_more_details_txt": "Clicca per avere maggiori dettagli",
+  "@click_to_see_more_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending_txt": "Invio…",
+  "@sending_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send_txt": "Invia",
+  "@send_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleted_message_txt": "Questo messaggio è stato cancellato",
+  "@deleted_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error_txt": "Errore di connessione",
+  "@connection_error_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writing_now_txt": "Scrivendo…",
+  "@writing_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "last_seen_txt": "Ultima visualizzazione",
+  "@last_seen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active_since_txt": "Attivo da",
+  "@active_since_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_the_message_txt": "Inserisci il messaggio ....",
+  "@enter_the_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_message_txt": "Se desideri eliminare questo messaggio, fare clic su Elimina",
+  "@warning_delete_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advice_txt": "Consiglio medico",
+  "@medical_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_topic_txt": "Aggiungi un argomento",
+  "@add_topic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings_txt": "Impostazioni",
+  "@settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language_txt": "Lingua",
+  "@language_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_out_txt": "Esci",
+  "@sign_out_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share_txt": "Condividi",
+  "@share_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_txt": "Tariffa",
+  "@rate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_for_updates_txt": "Controlla gli aggiornamenti",
+  "@check_for_updates_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "give_your_opinion_txt": "Vuoi dare la tua opinione su",
+  "@give_your_opinion_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support_center_txt": "Centro di supporto",
+  "@support_center_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_us_txt": "Chi siamo",
+  "@about_us_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_txt": "Annulla",
+  "@cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_txt": "Annullato",
+  "@canceled_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status_txt": "Stato",
+  "@status_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_txt": "Principale lamentela",
+  "@main_complaint_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_end_two_point_txt": "Principale lamentela :",
+  "@main_complaint_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_number_end_two_point_txt": "Numero di prenotazione :",
+  "@reservation_number_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_end_two_point_txt": "Periodo di prenotazione :",
+  "@reservation_period_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_from_doctor_txt": "Questo appuntamento è stato aggiunto dal medico della clinica",
+  "@warning_add_from_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_txt": "Nessuna nota",
+  "@no_notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_data_found_txt": "Nessun dato trovato",
+  "@no_data_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinics_txt": "Cliniche",
+  "@clinics_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_tourism_txt": "Turismo medico",
+  "@medical_tourism_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_cities_txt": "Tutte le città",
+  "@all_cities_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_txt": "Dottore",
+  "@doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "patient_txt": "Paziente",
+  "@patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_txt": "Farmacista",
+  "@pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_txt": "Infermiere",
+  "@medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_txt": "Tutto",
+  "@all_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_services_txt": "Servizi medici",
+  "@medical_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IQD_txt": "IQD",
+  "@IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "three_th_IQD_txt": "2.29 EUR",
+  "@three_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "five_th_IQD_txt": "3.83 EUR",
+  "@five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ten_th_IQD_txt": "7.66 EUR",
+  "@ten_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen_th_IQD_txt": "11.49 EUR",
+  "@fifteen_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_th_IQD_txt": "15.32 EUR",
+  "@twenty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_five_th_IQD_txt": "19.15 EUR",
+  "@twenty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_th_IQD_txt": "22.98 EUR",
+  "@thirty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_five_th_IQD_txt": "26.82 EUR",
+  "@thirty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_th_IQD_txt": "30.65 EUR",
+  "@forty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_five_th_IQD_txt": "34.48 EUR",
+  "@forty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifty_th_IQD_txt": "38.30 EUR",
+  "@fifty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sixty_th_IQD_txt": "45.97 EUR",
+  "@sixty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seventy_th_IQD_txt": "53.63 EUR",
+  "@seventy_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eighty_th_IQD_txt": "61.29 EUR",
+  "@eighty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ninety_th_IQD_txt": "68.95 EUR",
+  "@ninety_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hundred_th_IQD_txt": "76.62 EUR",
+  "@hundred_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialties_txt": "Specializzazioni",
+  "@specialties_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "best_doctors_txt": "Valutazione massimag",
+  "@best_doctors_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_result_txt": "nessun risultato trovato",
+  "@no_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigate_note_toast": "Non è possibile navigare nelle settimane precedenti",
+  "@navigate_note_toast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_available_txt": "Non disponibile",
+  "@not_available_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_reviews_txt": "Revisione",
+  "@dr_reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_details_txt": "Dettagli",
+  "@dr_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_doctor_txt": "A proposito del dottore",
+  "@about_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_pharmacist_txt": "A proposito del farmacista",
+  "@about_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_medical_assistant_txt": "A proposito di assistente medico",
+  "@about_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer_txt": "Offerte",
+  "@offer_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_for_txt": "È adatto a",
+  "@work_for_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_txt": "Specialità",
+  "@specialty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_txt": "Indirizzo della clinica",
+  "@clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phones_txt": "Numero di telefono",
+  "@phones_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_days_txt": "Giorni lavorativi",
+  "@working_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_txt": "Si",
+  "@yes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_txt": "No",
+  "@no_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "custom_search_txt": "Ricerca personalizzata",
+  "@custom_search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_result_txt": "Risultato della ricerca",
+  "@search_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_txt": "Appuntamenti",
+  "@appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_load_txt": "Scorri per caricare ancora",
+  "@swipe_to_load_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_days_txt": "I giorni",
+  "@the_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_prices_txt": "I prezzi",
+  "@the_prices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_failed_txt": "Caricamento non riuscito",
+  "@loading_failed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_txt": "Caricamento in corso...",
+  "@loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_more_data_txt": "Non ci sono più dati",
+  "@no_more_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_province_city_txt": "Seleziona la provincia o la città",
+  "@select_province_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_type_service_txt": "Seleziona il tipo di servizio medico",
+  "@select_type_service_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_price_txt": "Seleziona il prezzo",
+  "@select_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_working_day_txt": "Seleziona il giorno lavorativo",
+  "@select_working_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_on_map_txt": "Mostra sulla mappa",
+  "@show_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_locate_txt": "Hijozaty richiede l'accesso alla tua posizione Per facilitare l'accesso ai servizi dell'applicazione sulla mappa per consentire l'aggiunta di indirizzi di casa e lavoro e per determinare i servizi più vicini forniti",
+  "@warning_allow_locate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_location_txt": "La mia posizione",
+  "@my_location_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workplace_txt": "Posto di lavoro",
+  "@workplace_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_get_image_txt": "Per poter inviare immagini, consenti all'applicazione di utilizzare la libreria di immagini, vai alle impostazioni di seguito in modo da poterlo fare",
+  "@warning_allow_get_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_appointments_txt": "I miei appuntamenti",
+  "@my_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_appointments_txt": "Non ci sono appuntamenti",
+  "@there_are_no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_end_with_two_points_txt": "Dr. :",
+  "@dr_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_end_with_two_points_txt": "Specializzazione :",
+  "@specialty_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_end_with_two_points_txt": "Indirizzo della clinica :",
+  "@clinic_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_end_with_two_points_txt": "Controlla il prezzo :",
+  "@check_up_price_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_txt": "Controlla il prezzo",
+  "@check_up_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_end_with_two_points_txt": "Nome della farmacia :",
+  "@pharmacy_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_end_with_two_points_txt": "Indirizzo della farmacia :",
+  "@pharmacy_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_end_with_two_points_txt": "Nome della clinica :",
+  "@clinic_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_end_with_two_points_txt": "Anni di esperienza :",
+  "@experience_years_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detection_price_txt": "Prezzo di rilevamento",
+  "@detection_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_able_to_chat_txt": "Per favore registrati per poter chattare",
+  "@warning_able_to_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_workplace_on_map_txt": "Mostra luogo di lavoro sulla mappa",
+  "@show_workplace_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_offers_now_txt": "Non ci sono offerte ora",
+  "@no_offers_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_request_txt": "Richiesta di appuntamento",
+  "@appointment_request_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waring_book_more_than_once_txt": "Non è possibile prenotare più di una volta nello stesso periodo",
+  "@waring_book_more_than_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_end_with_two_points_txt": "Dottore :",
+  "@doctor_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_end_two_points_txt": "Periodo lavorativo :",
+  "@working_period_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_times_end_two_points_txt": "Orari di lavoro :",
+  "@working_times_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from_txt": "Da",
+  "@from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to_txt": "A",
+  "@to_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_appointments_end_with_two_points_txt": "Tutti gli appuntamenti :",
+  "@all_appointments_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_appointments_txt": "Non ci sono appuntamenti",
+  "@no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_in_this_day_txt": "Appuntamenti in questo giorno",
+  "@appointments_in_this_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest_txt": "Ospite",
+  "@guest_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_found_txt": "Non trovato",
+  "@not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reserved_sequence_txt": "Sequenza riservata",
+  "@reserved_sequence_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_approval_txt": "In attesa\ndi approvazione",
+  "@waiting_for_approval_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_entry_txt": "In attesa\nper l'ingresso",
+  "@waiting_for_entry_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_checking_txt": "In fase\ndi verifica",
+  "@under_checking_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "test_completed_txt": "Test\ncompletato",
+  "@test_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_test_txt": "Test annullato",
+  "@canceled_test_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_txt": "In attesa",
+  "@waiting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_shift_txt": "Turno serale",
+  "@evening_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_shift_txt": "Turno del mattino",
+  "@morning_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_choose_day_user_txt": "Scegli un giorno di prenotazione.\nVerde indica un giorno lavorativo.\nGrigio indica un giorno libero.",
+  "@warning_choose_day_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_register_reservation_txt": "Per favore registrati per avere una prenotazione",
+  "@warning_register_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_working_time_txt": "Orario di lavoro terminato",
+  "@finished_working_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_book_txt": "Clicca qui per prenotare",
+  "@click_to_book_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_period_txt": "Periodo terminato",
+  "@finished_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_txt": "Finito",
+  "@finished_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginning_week_txt": "Inizio settimana",
+  "@beginning_week_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_activated_soon_txt": "Sarà attivato presto",
+  "@will_activated_soon_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hospitals_txt": "Ospedali",
+  "@hospitals_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_request_appointment_note_txt": "_ Stai aspettando l'approvazione della richiesta di prenotazione da parte del medico. \n _ In alcuni casi urgenti, il medico può annullare la richiesta di prenotazione o modificare la data della prenotazione e riceverai una notifica in quel momento. \n - Se si desidera annullare la richiesta di prenotazione, premimi sull'icona in basso per annullare una prenotazione o per contattare il medico chiedendogli di annullare la prenotazione:",
+  "@new_request_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scheduled_appointment_note_txt": "- La prenotazione è stata confermata dal medico, ora stai aspettando che il tuo turno inizi per eseguire il test (esame). \n N Si prega di prestare attenzione alle notifiche dell’ordine di ingresso, che il medico ti invierà in modo che tu non sia in ritardo per il tuo appuntamento. \n _ Se sei in ritardo, la prenotazione verrà automaticamente cancellata. \n - Se si desidera annullare la prenotazione, si prega di contattare il medico facendo clic sull’icona in basso:",
+  "@scheduled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inprogress_appointment_note_txt": "_ Il dottore ti sta aspettando ora. \n _ Per favore, vieni o perderai il tuo appuntamento",
+  "@inprogress_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_appointment_note_txt": "_Il medico ha completato il test medico. \n _ Ora puoi lasciare la clinica .. \n _dottore e il suo team ti augurano una pronta guarigione.",
+  "@done_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_appointment_note_txt": " Ci dispiace informarti di questo,  la tua prenotazione è stata cancellata",
+  "@canceled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_count_txt": "Gli appuntamenti contano",
+  "@appointments_count_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_number_canceled_reservation_txt": "Non c'è un numero. prenotazione cancellata",
+  "@no_number_canceled_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_txt": "Periodo di prenotazione",
+  "@reservation_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_this_appointment_txt": "Valuta questo appuntamento",
+  "@rate_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_txt": "Valutazione",
+  "@evaluation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "press_on_star_to_set_rating_txt": "Premi sulla stella per impostare la tua valutazione",
+  "@press_on_star_to_set_rating_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "we_are_sad_to_hear_that_txt": "Ci dispiace :(",
+  "@we_are_sad_to_hear_that_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes_txt": "Note",
+  "@notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_this_appointment_txt": "Annulla questo appuntamento",
+  "@cancel_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_was_canceled_by_the_doctor_txt": "La chat è stata\ncancellata dal medico",
+  "@chat_was_canceled_by_the_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowed_to_evaluate_the_appointment_once_txt": "Autorizzato a valutare l'appuntamento",
+  "@allowed_to_evaluate_the_appointment_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_successful_done_txt": "Valutazione eseguita con successo",
+  "@evaluation_successful_done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_appointments_txt": "Nuovi appuntamenti ",
+  "@new_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews_txt": "Recensioni",
+  "@reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advices_txt": "Consigli medici",
+  "@medical_advices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_info_txt": "Informazioni del medico",
+  "@doctor_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experiences_txt": "Esperienza",
+  "@experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enable_chat_txt": "Disabilita chat",
+  "@enable_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "on_txt": "On",
+  "@on_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "of_txt": "Off",
+  "@of_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_cycle_between_weeks_txt": "Fai clic per scorrere tra le settimane",
+  "@click_to_cycle_between_weeks_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holiday_txt": "Festività",
+  "@holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_holiday_txt": "Queste festività",
+  "@this_holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_number_txt": "Appuntamento N.",
+  "@appointment_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "see_more_txt": "Vedi altro",
+  "@see_more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "set_new_time_txt": "Imposta un nuovo orario",
+  "@set_new_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_found_txt": "Nessuna nota trovata",
+  "@no_notes_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_appointment_txt": "Vuoi accettare questo appuntamento?",
+  "@warning_accept_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "has_been_approved_txt": "È stato approvato",
+  "@has_been_approved_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_txt": "Riprogrammare",
+  "@reschedule_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_this_appointment_txt": "Riprogrammare questo appuntamento",
+  "@reschedule_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_revision_txt": "In revisione",
+  "@under_revision_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_appointment_set_as_completed_txt": "Questo appuntamento è stato impostato come completato",
+  "@warning_appointment_set_as_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_set_appointment_to_be_completed_txt": "Vuoi impostare questo appuntamento come completato?",
+  "@warning_set_appointment_to_be_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_appointment_txt": "Vuoi eliminare definitivamente questo appuntamento (l'appuntamento non può essere ristabilito se è stato eliminato)?",
+  "@warning_delete_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_later_appointments_txt": "Non ci sono appuntamenti successivi",
+  "@there_are_no_later_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_reschedule_appointment_txt": "Vuoi riprogrammare questo appuntamento?",
+  "@warning_reschedule_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_has_been_moved_to_the_Reviews_txt": "L'appuntamento è stato spostato nella sezione Revisioni",
+  "@appointment_has_been_moved_to_the_Reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_transfer_appointment_to_the_review_txt": "Controlla il tuo appuntamento?",
+  "@warning_transfer_appointment_to_the_review_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discard_txt": "Elimina",
+  "@discard_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted_txt": "Accettato",
+  "@accepted_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept_txt": "Accetta",
+  "@accept_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "views_txt": "Visualizzazioni",
+  "@views_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_info_txt": "Informazioni sul farmacista",
+  "@pharmacist_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_details_txt": "Dettagli del farmacista",
+  "@pharmacist_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_info_txt": "Informazioni sull’infermiere",
+  "@medical_assistant_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_details_txt": "Dettagli dell’infermiere",
+  "@medical_assistant_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "demo_txt": "Demo",
+  "@demo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country_txt": "Seleziona un Paese",
+  "@select_country_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_countries_txt": "Tutti i paesi",
+  "@all_countries_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinics_phonebook_txt": "Rubrica delle cliniche",
+  "@clinics_phonebook_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_in_clinics_phonebooks_txt": "Cerca nella rubrica delle cliniche",
+  "@search_in_clinics_phonebooks_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "doctor_details_txt": "Dettagli del medico",
+  "@doctor_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "description_txt": "Description",
+  "@description_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "additional_specialization_txt": "Specializzazione aggiuntiva",
+  "@additional_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "qualifications_txt": "Titoli di studio",
+  "@qualifications_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "mobile_txt": "Cellulare",
+  "@mobile_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sent_chat_msg_txt": "È stato inviato un avviso che indica un nuovo messaggio",
+  "@sent_chat_msg_txt": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

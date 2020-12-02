@@ -1,0 +1,2220 @@
+{ "@@last_modified": "2019-12-23T20:52:46.498154",
+  "locale": "en",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_name_txt": "Hijozaty",
+  "@app_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_txt": "app",
+  "@app_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back_txt": "Back",
+  "@back_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_txt": "Home",
+  "@home_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_txt": "Search",
+  "@search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_txt": "Name",
+  "@name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_internet_txt": "NO INTERNET CONNECTION",
+  "@no_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_be_conncted_internet_txt": "Please make sure your device is connected to the Internet",
+  "@warning_be_conncted_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "try_again_txt": "Try again",
+  "@try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_txt": "Confirm",
+  "@confirm_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore_txt": "Ignore",
+  "@ignore_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "follow_us_on_txt": "Follow us on",
+      "@follow_us_on_txt": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "facebook_txt": "FACEBOOK",
+          "@facebook_txt": {
+            "type": "text",
+            "placeholders": {}
+          },
+   "instagram_txt": "INSTAGRAM",
+              "@instagram_txt": {
+                "type": "text",
+                "placeholders": {}
+              },
+  "address_end_two_points_txt": "Address :",
+  "@address_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_txt": "Address",
+  "@address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_end_two_points_txt": "Phone :",
+  "@phone_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_txt": "City",
+  "@city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_txt": "Phone",
+  "@phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_txt": "Chat",
+  "@chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chats_txt": "Chats",
+  "@chats_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_login_or_register_txt": "Please Log in or Register",
+  "@warning_login_or_register_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "one_period_txt": "One period",
+  "@one_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_txt": "Delete",
+  "@delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details_txt": "Details",
+  "@details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close_txt": "Close",
+  "@close_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "number_txt": "Number",
+  "@number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_load_image_again_txt": "Click to load\nimage again",
+  "@click_load_image_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh_txt": "Refresh",
+  "@refresh_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_txt": "Date",
+  "@date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_edits_txt": "Save edits",
+  "@save_edits_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "code_is_being_sent_loading_txt": "Code is being sent loading..",
+  "@code_is_being_sent_loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hint_phone_txt": "Type the phone number here in English",
+  "@hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_hint_phone_txt": "The personal phone number is not shown to users",
+  "@dr_hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_appointment_txt": "Add appointment",
+  "@add_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unexpected_error_occurred_try_again_txt": "An unexpected error occurred, please try again",
+  "@unexpected_error_occurred_try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_registration_txt": "New registration",
+  "@new_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_txt": "Login",
+  "@log_in_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip_txt": "Skip",
+  "@skip_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_txt": "Please choose the country code below. In the input field, just enter the phone number and without the country code",
+  "@add_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_patient_txt": "Register as a patient",
+  "@register_as_patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_doctor_txt": "Register as a doctor",
+  "@register_as_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_pharmacist_txt": "Register as a pharmacist",
+  "@register_as_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_medical_assistant_txt": "Register as a medical assistant",
+  "@register_as_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_no_data_txt": "No data, please try again later",
+  "@warning_no_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_problem_loading_data_txt": "There is a problem loading the data,please try later",
+  "@warning_problem_loading_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_weak_internet_txt": "Your internet connection appears very weak",
+  "@warning_weak_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuation_txt": "Continuation..",
+  "@continuation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_in_registration_txt": "Continue in registration",
+  "@continue_in_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_location_not_found_txt": "The address was not recognized. Please add the address manually",
+  "@warning_location_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifying_working_info_txt": "Modifying working info",
+  "@modifying_working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_info_txt": "Working info",
+  "@working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving_txt": "Saving...",
+  "@saving_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submission_in_progress_txt": "Submission In Progress...",
+  "@submission_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "professional_practice_number_txt": "Professional practice certificate number",
+  "@professional_practice_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_authority_txt": "Certificate Authority",
+  "@certificate_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "graduation_date_txt": "Graduation Date",
+  "@graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_issued_at_txt": "The date the certificate was issued",
+  "@certificate_issued_at_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_txt": "Continue",
+  "@continue_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_name_txt": "Please make sure to enter your full name",
+  "@warning_add_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_address_txt": "Please make sure to enter the address",
+  "@warning_enter_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_your_city_txt": "Please choose your city",
+  "@choose_your_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_password_txt": "Please enter the password",
+  "@please_enter_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "warning_short_password_txt": "Please enter a password for at least 6 characters",
+      "@warning_short_password_txt": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "warning_ensure_enter_correct_password_txt": "Please ensure that the password is rewritten correctly",
+  "@warning_ensure_enter_correct_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provinces_txt": "Provinces",
+  "@provinces_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "province_txt": "Province",
+  "@province_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male_txt": "Male",
+  "@male_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female_txt": "Female",
+  "@female_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undefined_txt": "Undefined",
+  "@undefined_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender_txt": "Select gender",
+  "@select_gender_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_choose_city": "Please choose a city",
+  "@please_choose_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_the_phone_city": "Please enter the phone",
+  "@please_enter_the_phone_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "img_added_txt": "Image Added",
+  "@img_added_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up_txt": "Sign Up",
+  "@sign_up_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_clinic_address_txt": "Enter the clinic's address",
+  "@enter_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_clinic_address_txt": "Enter the clinic's address",
+  "@enter_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "practical_experiences_txt": "Practical experiences and certifications",
+  "@practical_experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_checking_price_in_iraq_dinar_txt": "Medical checking price(in Iraqi dinar)",
+  "@medical_checking_price_in_iraq_dinar_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_specialization_txt": "Select specialization",
+  "@select_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_txt": "Clinic name",
+  "@clinic_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_activate_chat_txt": "Do you want to activate the chat?",
+  "@ask_activate_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_phone_txt": "Clinic phone",
+  "@clinic_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_medical_specialization_txt": "Please add medical specialization",
+  "@add_medical_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_name_of_the_clinic_txt": "Please add the name of the clinic",
+  "@add_the_name_of_the_clinic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_price_txt": "Please add the price",
+  "@add_the_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_phone_number_txt": "Please add the clinic's phone number",
+  "@add_clinic_phone_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_address_txt": "Please add the clinic's address",
+  "@add_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_txt": "Experience Years",
+  "@experience_years_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_in_btn": "Sign in",
+  "@sign_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify_txt": "Verify",
+  "@verify_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verification_in_progress_txt": "Verification in progress",
+  "@verification_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_phone_txt": "Phone number (+x xxx-xxx-xxxx)",
+  "@empty_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_phone_txt": "please enter Phone number in english",
+  "@enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_txt": "Email",
+  "@email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_txt": "Password",
+  "@password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_img_btn": "ADD YOUR IMAGE",
+  "@add_img_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_send_verifi_etxt": "The verification code will be sent in a few moments",
+  "@will_send_verifi_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_code_etxt": "Enter Code in english just",
+  "@enter_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend_code_etxt": "Resend code",
+  "@resend_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_sent_code_etxt": "If the code does not arrive, please",
+  "@not_sent_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_us_etxt": "Contact us",
+  "@contact_us_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_etxt": "Contact",
+    "@contact_etxt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "enter_name_etxt": "Enter the Triple Name",
+  "@enter_name_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_phone_msg_code_etxt": "Please check your phone for the verification code.",
+  "@check_phone_msg_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "re_enter_pass_etxt": "Re-enter password",
+  "@re_enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_re_enter_pass_txt": "Please make sure to re-write your password correctly",
+  "@warning_re_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_phone_txt": "Please make sure to add phone number",
+  "@warning_enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_correct_phone_txt": "Please make sure to add correct phone number",
+  "@warning_add_correct_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_select_city_txt": "Click to select the city",
+  "@click_select_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_residence_address_txt": "Enter your residence address",
+  "@enter_residence_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_email_txt": "Enter your Email",
+  "@enter_email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_number_txt": "Certificate number",
+  "@certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_professional_authority_txt": "Please add a professional certificate authority",
+  "@warning_add_certificate_professional_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_number_txt": "Please add certificate number",
+  "@warning_add_certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_graduation_date_txt": "Please add graduation Date",
+  "@warning_add_graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy_policy_txt": "Privacy policy",
+  "@privacy_policy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_privacy_txt": "It is not possible to register without agreeing to the Privacy Policy",
+  "@warning_accept_privacy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pharmacy_address_txt": "Enter the pharmacy address",
+  "@enter_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_txt": "Pharmacy name",
+  "@pharmacy_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_txt": "Pharmacy address",
+  "@pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_phone_txt": "Pharmacy phone",
+  "@pharmacy_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_the_pharmacy_address_txt": "Please add the pharmacy address",
+  "@warning_add_the_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_new_appointments_yet_txt": "There are no new appointments yet",
+  "@no_new_appointments_yet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "true_txt": "True",
+  "@true_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_txt": "Working period",
+  "@working_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_txt": "First period",
+  "@first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_txt": "Second period",
+  "@second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_period_txt": "Other period",
+  "@other_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_changed_work_times_txt": "Are you sure you have changed work times as you want ??!!",
+  "@warning_changed_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workdays_txt": "Workdays",
+  "@workdays_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_adjust_working_times_txt": "Please make sure adjust the working times as you suitable for you accurately",
+  "@warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "default_warning_adjust_working_times_txt": "By default, the working hours are set as follows, please amend them as suitable for you",
+  "@default_warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restore_day_txt": "Restore this day",
+  "@restore_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_day_txt": "Delete this day",
+  "@delete_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "restore_period_txt": "Restore this period",
+   "@return_period_txt": {
+     "type": "text",
+     "placeholders": {}
+   },
+  "start_work_txt": "Start of work",
+  "@start_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_work_txt": "End of work",
+  "@end_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_txt": "Edit",
+  "@edit_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_txt": "Done",
+  "@done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_time_txt": "Start time",
+  "@start_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_time_txt": "End time",
+  "@end_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour_txt": "Hour",
+  "@hour_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute_txt": "Minute",
+  "@minute_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_txt": "Morning",
+  "@morning_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_txt": "Evening",
+  "@evening_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_work_times_txt": "Edit work times",
+  "@edit_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_times_txt": "Work times",
+  "@work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_on_add_new_work_times_txt": "Please make sure that you have made appropriate changes to your working times, or click Back",
+  "@warning_on_add_new_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_second_period_txt": "Add second period",
+  "@add_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_second_period_txt": "Cancel second period",
+  "@cancel_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_edit_birthdate_less20_txt": "The birthdate cannot be modified for less than twenty years",
+  "@warning_edit_birthdate_less20_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday_txt": "Saturday",
+  "@saturday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday_txt": "Sunday",
+  "@sunday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday_txt": "Monday",
+  "@monday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday_txt": "Tuesday",
+  "@tuesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday_txt": "Wednesday",
+  "@wednesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday_txt": "Thursday",
+  "@thursday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday_txt": "Friday",
+  "@friday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_username_etxt": "Please enter your phone",
+  "@enter_username_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_btn": "Log in",
+  "@log_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_account_btn": "New Account",
+  "@new_account_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot_pass_txt": "Forgot your password",
+  "@forgot_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_username_txt": "Please enter your phone",
+  "@snack_bar_enter_username_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_pass_txt": "Please enter your password",
+  "@snack_bar_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pass_etxt": "Enter password",
+  "@enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_times_txt": "My Times",
+  "@my_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consulting_txt": "Consulting",
+  "@consulting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "international_services_txt": "International services",
+  "@international_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_account_txt": "My Account",
+  "@my_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_txt": "More",
+  "@more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "msg_from_txt": "Message From",
+  "@msg_from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_reply_txt": "Please add reply .. ??!!",
+  "@warning_add_reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_closing_Hijozty_txt": "Confirm closing Hijozty",
+  "@confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warinig_confirm_closing_Hijozty_txt": "Are you sure you want to close Hijozty",
+  "@warinig_confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_or_patient_name_txt": "Add a phone or patient's name",
+  "@add_phone_or_patient_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_appointment_txt": "Confirm appointment",
+  "@confirm_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish_txt": "Publish",
+  "@publish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_title_txt": "Please enter the topic title",
+  "@please_enter_topic_title_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_content_txt": "Please enter the topic content",
+  "@please_enter_topic_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_topic_content_length_txt": "The content of the topic should be at least 10 words",
+  "@warning_topic_content_length_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provide_advice_txt": "Provide advice",
+  "@provide_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_for_advice_txt": "Ask for advice",
+  "@ask_for_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "write_topic_detail_txt": "Write topic detail",
+  "@write_topic_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consultation_detail_txt": "Consultation details",
+  "@consultation_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reply_txt": "Reply",
+  "@reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_cancel_appointment_txt": "Do you really want to cancel this appointment?",
+  "@warning_cancel_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_cancel_txt": "Confirm cancel",
+  "@confirm_cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic_txt": "Arabic",
+  "@arabic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kurdish_txt": "Kurdish",
+  "@kurdish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "russian_txt": "Russian",
+  "@russian_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english_txt": "English",
+  "@english_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "italy_txt": "Italy",
+  "@italy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_delete_txt": "Confirm delete",
+  "@confirm_delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_content_txt": "Are you sure you want to delete this content?",
+  "@warning_delete_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "go_settings_txt": "Go to settings",
+  "@go_settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "direct_contact_txt": "Direct contact",
+  "@direct_contact_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_not_found_txt": "app not found",
+  "@app_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_choose_date_txt": "Swipe to choose date",
+  "@swipe_to_choose_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "time_ago_txt": "Time ago",
+  "@time_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "you_have_chosen_txt": "You have chosen",
+  "@you_have_chosen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_ago_txt": "Date ago",
+  "@date_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recheck_txt": "Recheck",
+  "@recheck_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_click_edit_rescheduling_txt": "To confirm the rescheduling, click Edit",
+  "@title_click_edit_rescheduling_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_not_possible_change_appointment_earlier_txt": "Not possible to change the appointment to an earlier time",
+  "@warning_not_possible_change_appointment_earlier_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_appropriate_period_by_clicking_on_the_period_txt": "Choose the appropriate period for you by clicking on the period",
+  "@choose_appropriate_period_by_clicking_on_the_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_on_image_to_zoom_txt": " Click on image to zoom",
+  "@click_on_image_to_zoom_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo_txt": "Undo",
+  "@undo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_registration_txt": "Confirm registration",
+  "@confirm_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_arrangement_error_periods_txt": "An error in the arrangement between the morning period and evening period",
+  "@warning_arrangement_error_periods_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "correct_arrangement_txt": "Correct arrangement",
+  "@correct_arrangement_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_end_of_the_first_period_txt": "The end of the first period",
+  "@the_end_of_the_first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "period_work_n_line_txt": "Period\nwork",
+  "@period_work_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_n_line_txt": "First\nperiod",
+  "@first_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_n_line_txt": "Second\nperiod",
+  "@second_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong_arrangement_n_line_txt": "Wrong\narrangement",
+  "@wrong_arrangement_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_account_txt": "Personal account",
+  "@personal_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_txt": "Full name",
+  "@full_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_end_two_points_txt": "Full name :",
+  "@full_name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_end_two_points_txt": "Name :",
+  "@name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_end_two_points_txt": "Birthdate :",
+  "@birthdate_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_txt": "Birthdate",
+  "@birthdate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender_end_two_points_txt": "Gender :",
+  "@gender_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_end_two_points_txt": "Email :",
+  "@email_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_txt": "Career",
+  "@career_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_end_two_points_txt": "Career :",
+  "@career_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_image_txt": "Save Image",
+  "@save_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_personal_info_txt": "Edit personal info",
+  "@edit_personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_account_txt": "Delete account",
+  "@delete_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_txt": "Save",
+  "@save_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_info_txt": "Personal info",
+  "@personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note_request_publication_ad_txt": "Contact us request publication an ad",
+  "@note_request_publication_ad_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_info_txt": "More info",
+  "@more_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "advertising_txt": "Advertising",
+  "@advertising_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report_txt": "Report",
+  "@report_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "like_txt": "Like",
+  "@like_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dislike_txt": "Dislike",
+  "@dislike_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages_txt": "Messages",
+  "@messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_messages_txt": "No messages",
+  "@no_messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_user_txt": "Other user",
+  "@other_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "a_long_time_txt": "A long time",
+  "@a_long_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_see_more_details_txt": "Click to see more details",
+  "@click_to_see_more_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending_txt": "Sending.....",
+  "@sending_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send_txt": "Send",
+  "@send_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleted_message_txt": "This message has been deleted",
+  "@deleted_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error_txt": "Connection error",
+  "@connection_error_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writing_now_txt": "Writing now .....",
+  "@writing_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "last_seen_txt": "Last seen",
+  "@last_seen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active_since_txt": "Active since",
+  "@active_since_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_the_message_txt": "Enter the message .... ",
+  "@enter_the_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_message_txt": "If you want to delete this message, click Delete",
+  "@warning_delete_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advice_txt": "Medical Advice",
+  "@medical_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_topic_txt": "Add a topic",
+  "@add_topic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings_txt": "Settings",
+  "@settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language_txt": "Language",
+  "@language_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_out_txt": "Sign out",
+  "@sign_out_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share_txt": "Share",
+  "@share_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_txt": "Rate",
+  "@rate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_for_updates_txt": "Check for updates",
+  "@check_for_updates_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "give_your_opinion_txt": "Do you want to give your opinion on",
+  "@give_your_opinion_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support_center_txt": "Support Center",
+  "@support_center_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_us_txt": "About Us",
+  "@about_us_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_txt": "CANCEL",
+  "@cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_txt": "Canceled",
+  "@canceled_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status_txt": "Status",
+  "@status_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_txt": "Main complaint",
+  "@main_complaint_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_end_two_point_txt": "Main complaint :",
+  "@main_complaint_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_number_end_two_point_txt": "Reservation number :",
+  "@reservation_number_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_end_two_point_txt": "Reservation period :",
+  "@reservation_period_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_from_doctor_txt": "This appointment was added by the doctor inside the clinic",
+  "@warning_add_from_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_txt": "No notes",
+  "@no_notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_data_found_txt": "No data found",
+  "@no_data_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinics_txt": "Clinics",
+  "@clinics_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_tourism_txt": "Medical tourism",
+  "@medical_tourism_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_cities_txt": "All cities",
+  "@all_cities_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_txt": "Doctor",
+  "@doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "patient_txt": "Patient",
+  "@patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_txt": "Pharmacist",
+  "@pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_txt": "Medical assistant",
+  "@medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_txt": "All",
+  "@all_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_services_txt": "Medical services",
+  "@medical_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "three_th_IQD_txt": "3000 IQD",
+  "@three_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IQD_txt": "IQD",
+  "@IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "five_th_IQD_txt": "5000 IQD",
+  "@five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ten_th_IQD_txt": "10000 IQD",
+  "@ten_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen_th_IQD_txt": "15000 IQD",
+  "@fifteen_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_th_IQD_txt": "20000 IQD",
+  "@twenty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_five_th_IQD_txt": "25000 IQD",
+  "@twenty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_th_IQD_txt": "30000 IQD",
+  "@thirty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_five_th_IQD_txt": "35000 IQD",
+  "@thirty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_th_IQD_txt": "40000 IQD",
+  "@forty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_five_th_IQD_txt": "45000 IQD",
+  "@forty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifty_th_IQD_txt": "50000 IQD",
+  "@fifty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sixty_th_IQD_txt": "60000 IQD",
+  "@sixty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seventy_th_IQD_txt": "70000 IQD",
+  "@seventy_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eighty_th_IQD_txt": "80000 IQD",
+  "@eighty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ninety_th_IQD_txt": "90000 IQD",
+  "@ninety_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hundred_th_IQD_txt": "100000 IQD",
+  "@hundred_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialties_txt": "Specializations",
+  "@specialties_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "best_doctors_txt": "Top rating",
+  "@best_doctors_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_result_txt": "No results found",
+  "@no_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigate_note_toast": "You can not navigate in previous weeks",
+  "@navigate_note_toast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_available_txt": "Not available",
+  "@not_available_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_reviews_txt": "Review",
+  "@dr_reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_details_txt": "Details",
+  "@dr_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_doctor_txt": "About doctor",
+  "@about_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_pharmacist_txt": "About pharmacist",
+  "@about_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_medical_assistant_txt": "About medical assistant",
+  "@about_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer_txt": "Offers",
+  "@offer_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_for_txt": "works for",
+  "@work_for_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_txt": "Specialty",
+  "@specialty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_txt": "Clinic Address",
+  "@clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phones_txt": "Phone",
+  "@phones_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_days_txt": "Working days",
+  "@working_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_txt": "Yes",
+  "@yes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_txt": "No",
+  "@no_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "custom_search_txt": "Custom search",
+  "@custom_search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_result_txt": "Search result",
+  "@search_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_txt": "Appointments",
+  "@appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_load_txt": "Swipe to load more",
+  "@swipe_to_load_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_days_txt": "The days",
+  "@the_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_prices_txt": "The prices",
+  "@the_prices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_failed_txt": "Loading failed",
+  "@loading_failed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_txt": "Loading...",
+  "@loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_more_data_txt": "There no more data",
+  "@no_more_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_province_city_txt": "Select the province or city",
+  "@select_province_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_type_service_txt": "Select the type of medical service",
+  "@select_type_service_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_price_txt": "Select price",
+  "@select_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_working_day_txt": "Select working day",
+  "@select_working_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_on_map_txt": "Show on the map",
+  "@show_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_locate_txt": "Hijozaty requires access to your location To facilitate access to application services on the map to enable the addition of home and work addresses and to determine the closest services provided",
+      "@warning_allow_locate_txt": {
+        "type": "text",
+        "placeholders": {}
+  },
+  "my_location_txt": "My location",
+    "@my_location_txt": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "workplace_txt": "Workplace",
+  "@workplace_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_get_image_txt": "To be able to send pictures please allow the application to use the image library, go to the settings below so that you can do that",
+  "@warning_allow_get_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_appointments_txt": "My appointments",
+  "@my_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_appointments_txt": "There are no appointments",
+  "@there_are_no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_end_with_two_points_txt": "DR :",
+  "@dr_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_end_with_two_points_txt": "Specialty :",
+  "@specialty_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_end_with_two_points_txt": "Clinic Address :",
+  "@clinic_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_end_with_two_points_txt": "Check up price :",
+  "@check_up_price_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_txt": "Check up price",
+  "@check_up_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_end_with_two_points_txt": "Pharmacy name :",
+  "@pharmacy_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_end_with_two_points_txt": "Pharmacy address :",
+  "@pharmacy_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_end_with_two_points_txt": "Clinic name :",
+  "@clinic_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_end_with_two_points_txt": "Experience Years :",
+  "@experience_years_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detection_price_txt": "Detection price",
+  "@detection_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_able_to_chat_txt": "Please register to be able to chat",
+  "@warning_able_to_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_workplace_on_map_txt": "Show workplace on the map",
+  "@show_workplace_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_offers_now_txt": "There are no offers now",
+  "@no_offers_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_request_txt": "Appointment request",
+  "@appointment_request_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waring_book_more_than_once_txt": "You cannot book more than once in the same period",
+  "@waring_book_more_than_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_end_with_two_points_txt": "Doctor :",
+  "@doctor_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_end_two_points_txt": "Working period :",
+  "@working_period_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_times_end_two_points_txt": "Working times :",
+  "@working_times_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from_txt": "From",
+  "@from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to_txt": "To",
+  "@to_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_appointments_end_with_two_points_txt": "All appointments :",
+  "@all_appointments_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_appointments_txt": "There are no appointments",
+  "@no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_in_this_day_txt": "Appointments in this day",
+  "@appointments_in_this_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest_txt": "Guest",
+  "@guest_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_found_txt": "Not found",
+  "@not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reserved_sequence_txt": "Reserved sequence",
+  "@reserved_sequence_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_approval_txt": "Waiting\nfor approval",
+  "@waiting_for_approval_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_entry_txt": "Waiting\nfor entry",
+  "@waiting_for_entry_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_checking_txt": "Under\nChecking",
+  "@under_checking_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "test_completed_txt": "Test\nCompleted",
+  "@test_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_test_txt": "CanceledTest",
+  "@canceled_test_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_txt": "Waiting",
+  "@waiting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_shift_txt": "Evening shift",
+  "@evening_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_shift_txt": "Morning Shift",
+  "@morning_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_choose_day_user_txt": "Choose a reservation day.\nGreen means a working day.\nGray means a day off.",
+  "@warning_choose_day_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_register_reservation_txt": "Please register to be able to get a reservation",
+  "@warning_register_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_working_time_txt": "Finished working time",
+  "@finished_working_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_book_txt": "Click here to book",
+  "@click_to_book_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_period_txt": "Finished period",
+  "@finished_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_txt": "Finished",
+  "@finished_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginning_week_txt": "Beginning week",
+  "@beginning_week_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_activated_soon_txt": "Will be activated soon",
+  "@will_activated_soon_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hospitals_txt": "Hospitals",
+    "@hospitals_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "new_request_appointment_note_txt": " _ You are now waiting for approval of the reservation request by the doctor. \n _ In some urgent cases, the doctor may cancel your reservation request or change the date of your reservation and you will be notified at that time. \n - If you want to cancel the reservation request, please press me on The icon for canceling a reservation below or contacting the doctor and asking him to cancel the reservation:",
+  "@new_request_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scheduled_appointment_note_txt": " - Your reservation has been confirmed by the doctor, you are now waiting for your turn to enter the doctor to perform the test (examination) .. \nPlease pay attention to the notifications of your sequence, which the doctor will send you so that you do not delay in attending the clinic. \n _ If you are late, your reservation will be canceled automatically. \n - If you wish to cancel the reservation, please contact the doctor by clicking on the icon below:",
+  "@scheduled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inprogress_appointment_note_txt": " _ Doctor is waiting for you now.\n _Please come or your appointment will be missed.",
+  "@inprogress_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_appointment_note_txt": " _The doctor has been completed your medical test. \n _You are now leaving the clinic ..\n _flutterBoilerplateWithbloc team wishes to you a speedy recovery, Allah willing.",
+  "@done_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_appointment_note_txt": " We regret to inform you about this, this reservation has been canceled",
+  "@canceled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_count_txt": "Appointments count",
+  "@appointments_count_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_number_canceled_reservation_txt": "There is no number. canceled reservation",
+  "@no_number_canceled_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_txt": "Reservation period",
+  "@reservation_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_this_appointment_txt": "Rate this appointment",
+  "@rate_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_txt": "Evaluation",
+  "@evaluation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "press_on_star_to_set_rating_txt": "Press on star to set your rating",
+  "@press_on_star_to_set_rating_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "we_are_sad_to_hear_that_txt": "We are sad to hear :(",
+  "@we_are_sad_to_hear_that_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes_txt": "Notes",
+  "@notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_this_appointment_txt": "Cancel this appointment",
+  "@cancel_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_was_canceled_by_the_doctor_txt": "Chat was canceled\nby the doctor",
+  "@chat_was_canceled_by_the_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowed_to_evaluate_the_appointment_once_txt": "Allowed to evaluate the appointment once",
+  "@allowed_to_evaluate_the_appointment_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_successful_done_txt": "Evaluation successful done",
+  "@evaluation_successful_done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_appointments_txt": "New Appointments",
+  "@new_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews_txt": "Reviews",
+  "@reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advices_txt": "Medical Advices",
+  "@medical_advices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_info_txt": "Doctor info",
+  "@doctor_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experiences_txt": "Experiences",
+  "@experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enable_chat_txt": "Enable chat",
+  "@enable_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "on_txt": "On",
+  "@on_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Off_txt": "Off",
+  "@Off_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_cycle_between_weeks_txt": "Click to cycle between weeks",
+  "@click_to_cycle_between_weeks_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holiday_txt": "Holiday",
+  "@holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_holiday_txt": "this holiday",
+  "@this_holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_number_txt": "Appointment number",
+  "@appointment_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "see_more_txt": "See more",
+  "@see_more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "set_new_time_txt": "Set a new time",
+  "@set_new_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_found_txt": "No notes found",
+  "@no_notes_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_appointment_txt": "Do you want to accept this appointment?",
+  "@warning_accept_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "has_been_approved_txt": "Has been approved",
+  "@has_been_approved_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_txt": "Reschedule",
+  "@reschedule_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_this_appointment_txt": "Reschedule this appointment",
+  "@reschedule_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_revision_txt": "Under revision",
+  "@under_revision_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_appointment_set_as_completed_txt": "This appointment has been set as completed",
+  "@warning_appointment_set_as_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_set_appointment_to_be_completed_txt": "Do you want to set this appointment as to be completed?",
+  "@warning_set_appointment_to_be_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_appointment_txt": "Do you want to permanently delete this appointment (the appointment cannot be returned if it was deleted)?",
+  "@warning_delete_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_later_appointments_txt": "There are no later appointments",
+  "@there_are_no_later_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_reschedule_appointment_txt": "Do you want to reschedule this appointment?",
+  "@warning_reschedule_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_has_been_moved_to_the_Reviews_txt": "The appointment has been moved to the Reviews section",
+  "@appointment_has_been_moved_to_the_Reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_transfer_appointment_to_the_review_txt": "Do you want to transfer the appointment to the review?",
+  "@warning_transfer_appointment_to_the_review_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discard_txt": "Discard",
+  "@discard_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted_txt": "Accepted",
+  "@accepted_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept_txt": "Accept",
+  "@accept_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "views_txt": "Views",
+    "@views_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "pharmacist_info_txt": "Pharmacist info",
+  "@pharmacist_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_details_txt": "Pharmacist details",
+  "@pharmacist_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_info_txt": "Medical assistant info",
+  "@medical_assistant_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_details_txt": "Medical assistant details",
+  "@medical_assistant_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "demo_txt": "demo",
+  "@demo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country_txt": "Select country",
+    "@select_country_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+     "all_countries_txt": "All countries",
+        "@all_countries_txt": {
+          "type": "text",
+          "placeholders": {}
+   },
+    "clinics_phonebook_txt": "Clinics Phonebook",
+         "@clinics_phonebook_txt": {
+         "type": "text",
+          "placeholders": {}
+    },
+     "search_in_clinics_phonebooks_txt": "Search in clinics phonebook",
+          "@search_in_clinics_phonebooks_txt": {
+          "type": "text",
+          "placeholders": {}
+   },
+
+     "doctor_details_txt": "Doctor details",
+          "@doctor_details_txt": {
+          "type": "text",
+          "placeholders": {}
+     },
+
+     "description_txt": "Description",
+           "@description_txt": {
+            "type": "text",
+            "placeholders": {}
+      },
+  "additional_specialization_txt": "Additional specialization",
+  "@additional_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "qualifications_txt": "Qualifications",
+              "@qualifications_txt": {
+              "type": "text",
+               "placeholders": {}
+     },
+
+      "mobile_txt": "Mobile",
+       "@mobile_txt": {
+       "type": "text",
+        "placeholders": {}
+      },
+  "sent_chat_msg_txt": "An alert has been sent that there a new message",
+  "@sent_chat_msg_txt": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

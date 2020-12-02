@@ -1,0 +1,156 @@
+name: flutterBoilerplateWithbloc
+description: Flutter medical app for booking appointment with a doctor.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  # UI library
+  getflutter: ^1.0.11
+  tip_dialog: ^3.1.0
+  # Service locator
+  get_it: ^4.0.2
+  # Bloc for state management
+  flutter_bloc: ^4.0.0
+  # Functional programming thingies
+  rxdart: ^0.24.0
+  progress_dialog: ^1.2.2
+  # Remote API
+  data_connection_checker: ^0.3.4
+  # Local cache
+  shared_preferences: ^0.5.7
+  # Local databas
+  floor: ^0.12.0
+  floor_annotation: ^0.7.0
+  #material_design_icons_flutter
+  material_design_icons_flutter: ^3.4.5045
+  #google services
+  firebase_core: ">= 0.4.3+1 < 0.4.3+2"
+  #firebase_auth: ^0.14.0+5
+  firebase_messaging: ">= 6.0.9 < 6.0.10"
+    #notification_reactor: ^0.0.3+1
+    #flutter_apns: ^1.0.3
+  #flutter_crashlytics: ^1.0.0
+  #provider
+  path_provider: ^1.6.5
+  #jenerating JsonSerializable
+  json_annotation: ^3.0.1
+  #some additional icons
+  line_awesome_icons: ^1.0.4+2
+  #read image from storage
+  image_picker: ^0.6.5+2
+  #use importatnt intl tools languages,date&time
+  intl: ^0.16.0
+  #animation text
+  animated_text_kit: ^2.0.0
+  toast: ^0.1.5
+  dio: ^3.0.9
+  flutter_image: ^3.0.0
+  #cached_network_image: ^1.1.3
+  transparent_image: ^1.0.0
+  flutter_url_image_load_fail: ^0.0.3+1
+  progressive_image: ^1.0.1
+  sqflite: ^1.3.0
+  flutter_svg: any
+  location: ^3.0.2
+  flutter_date_picker: ^0.1.8
+  timeago: ^2.0.26
+  gesture_zoom_box: 0.0.2
+  font_awesome_flutter: ^8.8.1
+  permission_handler: ^4.4.0
+  google_api_availability: ^2.0.1  # Geolocator Dependency.
+  #meta: ^1.2.2
+  ##flutter_facebook_login: ^3.0.0
+  #mqtt_client: ^5.6.0
+  #video_player: ^0.10.2+1
+  #flutter_app_badger: ^1.0.3+2
+  #connectivity: ^0.4.4
+  #navigator
+  fluro: "^1.6.3"
+  intl_translation: ^0.17.8
+  petitparser: ^2.4.0
+  socket_io_client: ^0.9.9
+  rating_dialog: ^1.0.0
+  share: ^0.6.4
+  google_maps_flutter: ^0.5.26+4
+  geolocator: ^5.3.1
+  geocoder: ^0.2.1
+  carousel_slider: ^1.4.1
+  flutter_cupertino_date_picker: ^1.0.12
+  country_code_picker: ^1.3.11
+  flutter_offline: ^0.3.0
+  adhara_socket_io: ^0.4.1
+  flutter_staggered_grid_view: ^0.3.0
+  pull_to_refresh: ^1.5.8
+  url_launcher: ^5.4.5
+  rating_bar: ^0.2.0
+  flutter_appavailability: ^0.0.21
+  flutter_spinkit: ^4.1.2+1
+  rate_my_app: ^0.6.0+2
+  app_review: ^1.1.0+1
+  auto_direction: ^0.0.4+1
+  clay_containers: ^0.2.2
+ # flushbar:  ">= 1.8.1 < 1.8.2"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^4.1.1
+  floor_generator: ^0.12.0
+  build_runner: ^1.9.0
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+
+  # An image asset can re    - assets/svg/bg.svgfer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Black.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf
+        - asset: assets/fonts/Cairo-Light.ttf
+        - asset: assets/fonts/Cairo-SemiBold.ttf
+        - asset: assets/fonts/Cairo-ExtraLight.ttf
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal/Tajawal-Regular.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-Black.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-Bold.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-Light.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-ExtraBold.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-ExtraLight.ttf
+
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
+flutter_intl:
+  enabled: true

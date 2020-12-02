@@ -1,0 +1,2225 @@
+{ "@@last_modified": "2019-12-23T20:52:46.498154",
+  "locale": "ckb",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_name_txt": "حجزەکانم",
+  "@app_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_txt": "ئاپ",
+  "@app_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back_txt": "گەڕانەوە",
+  "@back_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_txt": "سەرەکی",
+  "@home_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_txt": "گەڕان",
+  "@search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_txt": "ناو",
+  "@name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_internet_txt": "پەیوەندی بە ئینتەرنێتەوە پچڕاوە",
+  "@no_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_be_conncted_internet_txt": "تکایە دڵنیابە لە بوونی ئینتەرنێت لە سەر ئامێرەکەت",
+  "@warning_be_conncted_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "try_again_txt": "دووبارە هەوڵ بدە",
+  "@try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_txt": "دڵنیابوون",
+  "@confirm_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore_txt": "پتشگوێخستن",
+  "@ignore_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "follow_us_on_txt": "تبەردەوام بە لە گەڵمان لە سەر",
+     "@follow_us_on_txt": {
+       "type": "text",
+       "placeholders": {}
+     },
+  "facebook_txt": "فەیسبوك",
+          "@facebook_txt": {
+            "type": "text",
+            "placeholders": {}
+    },
+  "instagram_txt": "ئنستاگرام",
+              "@instagram_txt": {
+                "type": "text",
+                "placeholders": {}
+    },
+  "address_end_two_points_txt": "ناونیشان :",
+  "@address_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_txt": "ناونیشان",
+  "@address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_end_two_points_txt": "تەلەفۆن :",
+  "@phone_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_txt": "شار",
+  "@city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_end_two_points_txt": "شار :",
+  "@city_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_txt": "تەلەفۆن",
+  "@phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_txt": "چات",
+  "@chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chats_txt": "چاتەکان",
+  "@chats_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_login_or_register_txt": "تکایە تۆماری چوونەژوورەوە یان تۆمار بکە",
+  "@warning_login_or_register_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "one_period_txt": "یەك ماوە",
+  "@one_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_txt": "سڕینەوە",
+  "@delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details_txt": "وردەکاری",
+  "@details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close_txt": "داخستن",
+  "@close_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "number_txt": "ژمارە",
+  "@number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_load_image_again_txt": "کلك بکە بۆ داگرتن\nدووبارە وێنەکە",
+  "@click_load_image_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh_txt": "نوێ کردنەوە",
+  "@refresh_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_txt": "بەروار",
+  "@date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_edits_txt": "هەڵگرتنی ڕێکخستنەکانم",
+  "@save_edits_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "code_is_being_sent_loading_txt": "خەریکی ناردنی کۆدە ...",
+  "@code_is_being_sent_loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hint_phone_txt": "تکایە ژمارە تەلەفوون بە زمانی ئینگلیزی داخڵ بکە",
+  "@hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_hint_phone_txt": "رقم الهاتف الشخصي لا يظهر للمستخدمين",
+  "@dr_hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_appointment_txt": "زیادکردنی چاوپێکەوتن",
+  "@add_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unexpected_error_occurred_try_again_txt": "هەڵەیەکی چاوەڕواننەکراو ڕوویدا، تکایە دووبارە هەوڵبدە",
+  "@unexpected_error_occurred_try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_registration_txt": "تۆماری نوێ",
+  "@new_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_txt": "تۆماری چوونە ژوورەوە",
+  "@log_in_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip_txt": "تێپەڕاندن",
+  "@skip_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_txt": "تکایە ژمارەی مۆبایلەکەت بنووسە لە پاش کۆدی وڵاتەکەت",
+  "@add_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_patient_txt": "تۆمار وەکوو سەردانکەر",
+  "@register_as_patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_doctor_txt": "تۆمار وەکوو پزیشك",
+  "@register_as_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_pharmacist_txt": "تۆمار وەکوو دەرمانساز",
+  "@register_as_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_medical_assistant_txt": "تۆمار وەکوو پەرستار",
+  "@register_as_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_no_data_txt": "هیچ داتایەك بوونی نییە، تکایە دووبارە هەوڵ بدە",
+  "@warning_no_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_problem_loading_data_txt": "کێشەیەك لە داگرتنی داتاکان هەیە، تکایە دواتر هەوڵ بدە",
+  "@warning_problem_loading_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_weak_internet_txt": "پێدەچێت پەیوەندیت بە ئینتەرنێتەوە زۆر لاواز بێت",
+  "@warning_weak_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuation_txt": "بەردەوامبوون ...",
+  "@continuation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_in_registration_txt": "بەردەوامبوون لە تۆمار",
+  "@continue_in_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_location_not_found_txt": "ناونیشانەکە نەناسرا. تکایە ناونیشانەکە بە دەستی بنووسە",
+  "@warning_location_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifying_working_info_txt": "ڕێکخستنی زانیارییەکانی کار",
+  "@modifying_working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_info_txt": "زانیارییەکانی کار",
+  "@working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving_txt": "خەریکە هەڵدەگیرێت...",
+  "@saving_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submission_in_progress_txt": "خەریکە تۆمار دەکرێت...",
+  "@submission_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "professional_practice_number_txt": "ژمارەی بڕوانامەی جێبەجێکردنی کاری پیشەیی",
+  "@professional_practice_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_authority_txt": "شوێنی دەرچوونی بڕوانامەی کاری پیشەیی",
+  "@certificate_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "graduation_date_txt": "بەرواری دەرچوون (تخرج)",
+  "@graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_issued_at_txt": "بەرواری دەرچوونی بڕوانامە",
+  "@certificate_issued_at_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_txt": "بەردەوامبە",
+  "@continue_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_name_txt": "تکایە دڵنیابە لە نووسینی ناوی تەواوت",
+  "@warning_add_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_address_txt": "تکایە دڵنیابە لە نووسینی ناونیشان",
+  "@warning_enter_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_your_city_txt": "تکایە شارەکەت هەڵبژێرە",
+  "@choose_your_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_password_txt": "تکایە پاسۆود داخل بکە",
+  "@please_enter_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "warning_short_password_txt": "تکایە پاسووردێک بنووسە کە لە ٦ پیت کەمتر نەبێت",
+        "@warning_short_password_txt": {
+          "type": "text",
+          "placeholders": {}
+        },
+  "warning_ensure_enter_correct_password_txt": "تکایە دڵنیابە لە دووبارە نووسینەوەی پاسووردەکە بە شێوەیەکی درووست",
+  "@warning_ensure_enter_correct_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provinces_txt": "پارێزگاکان",
+  "@provinces_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "province_txt": "پارێزگا",
+  "@province_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male_txt": "نێر",
+  "@male_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female_txt": "مێ",
+  "@female_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undefined_txt": "دیاری نەکراو",
+  "@undefined_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender_txt": "ڕەگەز هەڵبژێرە",
+  "@select_gender_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_choose_city": "تکایە شار هەڵبژێرە",
+  "@please_choose_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_the_phone_city": "تکایە ژمارەی تەلەفوون داخل بکە",
+  "@please_enter_the_phone_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "img_added_txt": "وێنەکە زیادکرا",
+  "@img_added_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up_txt": "تۆمار",
+  "@sign_up_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_clinic_address_txt": "ناونیشانی نۆڕینگە داخل بکە",
+  "@enter_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "practical_experiences_txt": "الخبرات والشهادات العملية",
+  "@practical_experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_checking_price_in_iraq_dinar_txt": "سعر الفحص الطبي (بالدينار العراقي)",
+  "@medical_checking_price_in_iraq_dinar_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_specialization_txt": "پسپۆڕی هەڵبژێرە",
+  "@select_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_txt": "ناوی نۆڕینگە",
+  "@clinic_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_activate_chat_txt": "ئەتەوێت چات ئەکتیڤ بکەیت؟",
+  "@ask_activate_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_phone_txt": "ژمارە تەلەفوونی نۆڕینگە",
+  "@clinic_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_medical_specialization_txt": "تکایە پسپۆڕی پزیشکی هەڵبژێرە",
+  "@add_medical_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_name_of_the_clinic_txt": "تکایە ناوی نۆڕینگە داخڵ بکە",
+  "@add_the_name_of_the_clinic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_price_txt": "تکایە نرخ داخڵ بکە",
+  "@add_the_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_phone_number_txt": "تکایە ژمارە تەلەفوونی نۆڕینگە داخڵ بکە",
+  "@add_clinic_phone_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_address_txt": "تکایە ناونیشانی نۆڕینگە داخڵ بکە",
+  "@add_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_txt": "ساڵانی ئەزموون",
+  "@experience_years_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_in_btn": "تۆماری چوونەژوورەوە",
+  "@sign_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify_txt": "پێداچوونەوە",
+  "@verify_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verification_in_progress_txt": "خەریکی پێداچوونەوەیە ...",
+  "@verification_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_phone_txt": "ژمارە تەلەفوون بە ئینگلیزی ",
+  "@empty_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_phone_txt": "تکایە ژمارە تەلەفوون بە زمانی ئینگلیزی داخڵ بکە",
+  "@enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_txt": "ئیمیڵ",
+  "@email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_txt": "ژمارەی نهێنی",
+  "@password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_img_btn": "وێنەت داخڵ بکە",
+  "@add_img_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_send_verifi_etxt": "لە ماوەی چەند چرکەیەکدا ژمارەی دڵنیابوونت پێ دەگات",
+  "@will_send_verifi_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_code_etxt": "تکایە کۆد بە زمانی ئینگلیزی داخڵ بکە ",
+  "@enter_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend_code_etxt": "دووبارە کۆد بنێرە",
+  "@resend_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_sent_code_etxt": "ئەگەر کۆد نەگەیشت، تکایە",
+  "@not_sent_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_us_etxt": "پەیوەندیمان پێوە بکە",
+  "@contact_us_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "contact_etxt": "پەیوەندی بکە",
+      "@contact_etxt": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "enter_name_etxt": "ناوی سیانی بنووسە",
+  "@enter_name_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_phone_msg_code_etxt": "تکایە دڵنیابە لە ژمارە تەلەفوونەکەت بۆ زانینی کۆدی دڵنیابوون",
+  "@check_phone_msg_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "re_enter_pass_etxt": "دووبارە پاسۆردەکەت بنووسە",
+  "@re_enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_re_enter_pass_txt": "تکایە دڵنیابە لە دووبارە نووسینەوەی پاسۆودەکەت بە شێوەیەکە درووست",
+  "@warning_re_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_phone_txt": "تکایە دڵنیابە لە نووسینی ژمارەی تەلەفۆن",
+  "@warning_enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_correct_phone_txt": "تکایە ژمارە تەلەفۆنی درووست بنووسە",
+  "@warning_add_correct_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_select_city_txt": "کلك بکە بۆ دیاری کردنی شار",
+  "@click_select_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_residence_address_txt": "ناونیشانی نیشتەجێبوونت داخل بکە",
+  "@enter_residence_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_email_txt": "ئیمێڵەکەت داخل بکە",
+  "@enter_email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_number_txt": "ژمارەی بڕوانامە",
+  "@certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_professional_authority_txt": "تکایە شوێنی دەرچوونی بڕوانامەی جێبەجێکردنی کاری پیشەیی زیاد بکە",
+  "@warning_add_certificate_professional_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_number_txt": "تکایە ژمارەی بڕوانامە زیاد بکە",
+  "@warning_add_certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_graduation_date_txt": "تکایە بەرواری دارچوون (تخرج) زیاد بکە",
+  "@warning_add_graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy_policy_txt": "سیاسەتی تایبەتمەندی",
+  "@privacy_policy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_privacy_txt": "ناتوانرێت تۆمار بکرێت بە بێ ڕەزامەندبوون لە سەر سیاسەتی تایبەتمەندی",
+  "@warning_accept_privacy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pharmacy_address_txt": "ناونیشانی دەرمانخانە داخل بکە",
+  "@enter_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_txt": "ناوی دەرمانخانە",
+  "@pharmacy_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_txt": "ناونیشانی دەرمانخانە",
+  "@pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_phone_txt": "ژمارە تەلەفوونی دەرمانخانە",
+  "@pharmacy_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_the_pharmacy_address_txt": "تکایە ناونیشانی دەرمانخانە زیاد بکە",
+  "@warning_add_the_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_new_appointments_yet_txt": "هێشتا چاوپێکەوتنی نوێ بەردەست نییە",
+  "@no_new_appointments_yet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "true_txt": "درووست",
+  "@true_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_txt": "ماوەی کارکردن",
+  "@working_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_txt": "ماوەی یەکەم",
+  "@first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_txt": "ماوەی دووەم",
+  "@second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_period_txt": "ماوەی تر",
+  "@other_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_changed_work_times_txt": "دڵنیایت کە ماوەکانی کارکردنت بە جۆرێک گۆڕی کە بگونجێت بۆت؟",
+  "@warning_changed_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workdays_txt": "ڕۆژانی کارکردن",
+  "@workdays_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_adjust_working_times_txt": "تکایە دڵنیابە لە ڕێکخستنی ماوەکانی کارکردن بە جۆرێک کە بگونجێت بۆت",
+  "@warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "default_warning_adjust_working_times_txt": "بە شێوەیەکی گریماناوی، کاتی کارکردن بەم شێوەیەی خوارەوە دیاری کرا، تکایە بە جۆرێك ڕێکی بخە کە بگونجێت بۆت",
+  "@default_warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restore_day_txt": "دووبارەکردنی ئەم ڕۆژە",
+  "@restore_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_day_txt": "سڕینەوەی ئەم ڕۆژە",
+  "@delete_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "restore_period_txt": "گێڕانەوەی ئەم ماوە",
+  "@return_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_work_txt": "دەستپێکردنی کار",
+  "@start_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_work_txt": "دەستپێکردنی کار",
+  "@end_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_txt": "ڕێکخستن",
+  "@edit_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_txt": "ئەنجام درا",
+  "@done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_time_txt": "کاتی دەستپێکردن",
+  "@start_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_time_txt": "کاتی کۆتایی",
+  "@end_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour_txt": "کاتژمێر",
+  "@hour_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute_txt": "دقيقە",
+  "@minute_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_txt": "بەیانی",
+  "@morning_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_txt": "مسائا",
+  "@evening_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_work_times_txt": "ڕێکخستنەوەی کاتی کارکردن",
+  "@edit_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_times_txt": "کاتی کارکردن",
+  "@work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_on_add_new_work_times_txt": "تکایە دڵنیابە کە گۆڕانکاری پێویستت لە کاتەکانی کارەکەتت کرد، یان کلك لە سەر پێشتر بکە",
+  "@warning_on_add_new_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_second_period_txt": "زیادکردنی ماوەی دووەم",
+  "@add_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_second_period_txt": "هەڵوەشاندنەوەی ماوەی دووەم",
+  "@cancel_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_edit_birthdate_less20_txt": "لناتوانرێت بەرواری لە دایکبوونێك داخل بکرێت کە لە بیست ساڵ کەمتر بێت",
+  "@warning_edit_birthdate_less20_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday_txt": "شەممە",
+  "@saturday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday_txt": "یەك شەممە",
+  "@sunday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday_txt": "دوو شەممە",
+  "@monday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday_txt": "سێ شەممە",
+  "@tuesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday_txt": "چوار شەممە",
+  "@wednesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday_txt": "پێنج شەممە",
+  "@thursday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday_txt": "هەینی",
+  "@friday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_username_etxt": "تکایە ژمارەی تەلەفوونەکەت داخل بکە",
+  "@enter_username_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_btn": "تۆماری چوونە ژوورەوە",
+  "@log_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_account_btn": "هەژماری نوێ",
+  "@new_account_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot_pass_txt": "ژمارە نیهێنییەکەتت بیر چووە؟",
+  "@forgot_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_username_txt": "تکایە ژمارەی تەلەفۆنەکەت داخل بکە",
+  "@snack_bar_enter_username_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_pass_txt": "تکایە ژمارە نیهێنییەکەت داخل بکە",
+  "@snack_bar_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pass_etxt": "پاسووردەکەت داخل بکە",
+  "@enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_times_txt": "کاتەکانم",
+  "@my_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consulting_txt": "ڕاوێژەکان",
+  "@consulting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "international_services_txt": "خزمەتگوزارییە نێودەوڵەتییەکان",
+  "@international_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_account_txt": "هەژمارەکەم",
+  "@my_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_txt": "زیاتر",
+  "@more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "msg_from_txt": "نامە لە",
+  "@msg_from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_reply_txt": "تکایە وەڵام زیاد بکە...",
+  "@warning_add_reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_closing_Hijozty_txt": "دڵنیابوون داخستنی \"حجزەکانم\"",
+  "@confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warinig_confirm_closing_Hijozty_txt": "دڵنیای کە ئەتەوێت حجزەکانم داخەیت؟",
+  "@warinig_confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_or_patient_name_txt": "ژمارە تەلەفۆنێک یان ناوی نەخۆش بنووسە",
+  "@add_phone_or_patient_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_appointment_txt": "دڵنیابوون لە چاوپێکەوتن",
+  "@confirm_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish_txt": "بڵاوکردنەوە",
+  "@publish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_title_txt": "تکایە ناونیشانی بابەت داخل بکە",
+  "@please_enter_topic_title_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_content_txt": "تکایە ناوەڕۆکی بابەت داخل بکە",
+  "@please_enter_topic_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_topic_content_length_txt": "نابێت ناوەڕۆکی بابەت لە ١٠ ووشە کەمتر بێت",
+  "@warning_topic_content_length_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provide_advice_txt": "پێشکەش کردنی ڕاوێژ",
+  "@provide_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_for_advice_txt": "ڕاویژ بکە",
+  "@ask_for_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "write_topic_detail_txt": "وردەکاری بابەت بنووسە",
+  "@write_topic_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consultation_detail_txt": "وردەکاری ڕاویژ",
+  "@consultation_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reply_txt": "وەڵامدانەوە",
+  "@reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_cancel_appointment_txt": "ئەتەوێت ئەم چاوپێکەونە ڕەت بکەیتەوە؟",
+  "@warning_cancel_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_cancel_txt": "دڵنیابوون لە ڕەتکردنەوە",
+  "@confirm_cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic_txt": "عەرەبی",
+  "@arabic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english_txt": "English",
+  "@english_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "italy_txt": "Italy",
+  "@italy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kurdish_txt": "كردي",
+  "@kurdish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "russian_txt": "روسي",
+  "@russian_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "confirm_delete_txt": "دڵنیابوون لە سڕینەوە",
+  "@confirm_delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_content_txt": "دڵنیایت کە ئەتەوێت ئەم ناوەڕۆکە بسڕیتەوە؟",
+  "@warning_delete_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "go_settings_txt": "بڕۆ بۆ ڕێکخستنەکان",
+  "@go_settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "direct_contact_txt": "پەیوەندی ڕاستەوخۆ",
+  "@direct_contact_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_not_found_txt": "ئاپەکە بەردەست نییە",
+  "@app_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_choose_date_txt": "بپەڕێنە بۆ هەڵبژاردنی بەروار",
+  "@swipe_to_choose_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "time_ago_txt": "کاتێکی بەسەرچوو",
+  "@time_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "you_have_chosen_txt": "هەڵتبژارد",
+  "@you_have_chosen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_ago_txt": "بەروارێکی بەسەرچوو",
+  "@date_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recheck_txt": "دووبارە ووردبینی کردن",
+  "@recheck_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_click_edit_rescheduling_txt": "بۆ دڵنیابوون لە هەڵبژاردنی بەروارێکی تر، تکایە کلك لە سەر ڕێککردن بکە",
+  "@title_click_edit_rescheduling_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_not_possible_change_appointment_earlier_txt": "چاوپێکەوتن بۆ کاتێکی بەسەرچوو ناگۆڕدرێت",
+  "@warning_not_possible_change_appointment_earlier_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_appropriate_period_by_clicking_on_the_period_txt": "ماوەی گونجاو هەڵبژێرە بە کلك کردن لە سەر ئەو ماوەیە",
+  "@choose_appropriate_period_by_clicking_on_the_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_on_image_to_zoom_txt": "کلك لە سەر وێنە بکە بۆ گەورەکردنەوە",
+  "@click_on_image_to_zoom_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo_txt": "گەڕانەوە",
+  "@undo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_registration_txt": "دڵنیابوون لە تۆمارکردن",
+  "@confirm_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_arrangement_error_periods_txt": "هەڵە لە پوختەکردنی نێوان ماوەی بەیانیان و ماوەی ئێواران هەیە",
+  "@warning_arrangement_error_periods_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "correct_arrangement_txt": "پوختەکردنی درووست",
+  "@correct_arrangement_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_end_of_the_first_period_txt": "کۆتایی ماوەی یەکەم",
+  "@the_end_of_the_first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "period_work_n_line_txt": "ماوە\nکار",
+  "@period_work_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_n_line_txt": "ماوە\nیەکەم",
+  "@first_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_n_line_txt": "ماوە\nدووەم",
+  "@second_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong_arrangement_n_line_txt": "پوختەکردن\nهەڵە",
+  "@wrong_arrangement_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_account_txt": "هەژماری کەسی",
+  "@personal_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_txt": "ناوی تەواو",
+  "@full_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_end_two_points_txt": "ناوی تەواو :",
+  "@full_name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_end_two_points_txt": "ناو :",
+  "@name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_end_two_points_txt": "بەرواری لە دایکبوون :",
+  "@birthdate_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_txt": "بەرواری لە دایکبوون",
+  "@birthdate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender_end_two_points_txt": "ڕەگەز :",
+  "@gender_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_end_two_points_txt": "ئیمێڵ :",
+  "@email_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_txt": "کار",
+  "@career_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_end_two_points_txt": "کار :",
+  "@career_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_image_txt": "وێنە هەڵگرە",
+  "@save_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_personal_info_txt": "ڕێکخستنی زانیاری کەسی",
+  "@edit_personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_account_txt": "سڕینەوەی هەژمار",
+  "@delete_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_txt": "هەڵگرتن",
+  "@save_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_info_txt": "زانیاری کەسی",
+  "@personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note_request_publication_ad_txt": "پەیوەندیمان پێوە بکە بۆ بڵاوکردنەوەی ڕیکلام",
+  "@note_request_publication_ad_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_info_txt": "زانیاری زیاتر",
+  "@more_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "advertising_txt": "ڕیکلام",
+  "@advertising_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report_txt": "ئاگادارکردنەوە",
+  "@report_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "like_txt": "سەرسامبوون",
+  "@like_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dislike_txt": "ڕەتکردنەوەی سەرسامبوون",
+  "@dislike_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages_txt": "نامەکان",
+  "@messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_messages_txt": "هیچ نامەیەك بوونی نییە",
+  "@no_messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_user_txt": "بەکارهێنەرێکی تر",
+  "@other_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "a_long_time_txt": "کاتی درێژ",
+  "@a_long_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_see_more_details_txt": "کلك بکە بۆ بینینی وردەکاری زیاتر",
+  "@click_to_see_more_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending_txt": "خەریکی ناردنە ...",
+  "@sending_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send_txt": "ناردن",
+  "@send_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleted_message_txt": "ئەم نامە سڕێندرایەوە",
+  "@deleted_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error_txt": "کێشە لە پەیوەندی هەیە",
+  "@connection_error_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writing_now_txt": "ئێستا دەنووسێت...",
+  "@writing_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "last_seen_txt": "دوا دەرکەوتن",
+  "@last_seen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active_since_txt": "چالاکە لە",
+  "@active_since_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_the_message_txt": "نامە داخل بکە ...",
+  "@enter_the_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_message_txt": "ئەگەر ئەتەوێت ئەم نامە بسڕیتەوە، کلك لە سەر سڕینەوە بکە",
+  "@warning_delete_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advice_txt": "ئامۆژگاری پزیشکی",
+  "@medical_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_topic_txt": "بابەت زیاد بکە",
+  "@add_topic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings_txt": "ڕێکخستن",
+  "@settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language_txt": "زمان",
+  "@language_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_out_txt": "دەرچوون",
+  "@sign_out_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share_txt": "بەشداری بکە",
+  "@share_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_txt": "هەڵسەنگاندن",
+  "@rate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_for_updates_txt": "لە بوونی نوێکردنەوە بکۆڵە",
+  "@check_for_updates_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "give_your_opinion_txt": "ئەتەوێت سەرنج بەیت لە سەر",
+  "@give_your_opinion_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support_center_txt": "سەنتەری پشتگیری",
+  "@support_center_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_us_txt": "زانیاری دەربارەی ئێمە",
+  "@about_us_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_txt": "ڕەتکردنەوە",
+  "@cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_txt": "ڕەتکرایەوە",
+  "@canceled_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status_txt": "کەیس",
+  "@status_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_txt": "پێشاندەری سەرەکی",
+  "@main_complaint_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_end_two_point_txt": "پێشاندەری سەرەکی :",
+  "@main_complaint_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_number_end_two_point_txt": "ژمارەی حجز :",
+  "@reservation_number_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_end_two_point_txt": "ماوەی حجز :",
+  "@reservation_period_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_from_doctor_txt": "ئەم چاوپێکەوتنە لە لایەن پزیشکەوە لە ناو نۆڕینگە زیادکرا",
+  "@warning_add_from_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_txt": "هیچ تێبینییەك بوونی نییە",
+  "@no_notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_data_found_txt": "هیچ داتایەك بوونی نییە",
+  "@no_data_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinics_txt": "نۆڕینگەکان",
+  "@clinics_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_tourism_txt": "گوزاری پزیشکی",
+  "@medical_tourism_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_cities_txt": "هەموو شارەکان",
+  "@all_cities_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_txt": "پزیشك",
+  "@doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "patient_txt": "سەردانکەر",
+  "@patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_txt": "دەرمانساز",
+  "@pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_txt": "پەرستار",
+  "@medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_txt": "هەموو",
+  "@all_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_services_txt": "خزمەتگوزارییە پزیشکییەکان",
+  "@medical_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IQD_txt": "دیناری عیراقی",
+  "@IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "three_th_IQD_txt": "٣٠٠٠ دیناری عیراقی",
+  "@three_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "five_th_IQD_txt": "٥٠٠٠ دیناری عیراقی",
+  "@five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ten_th_IQD_txt": "١٠٠٠٠ دیناری عیراقی",
+  "@ten_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen_th_IQD_txt": "١٥٠٠٠ دیناری عیراقی",
+  "@fifteen_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_th_IQD_txt": "٢٠٠٠٠ دیناری عیراقی",
+  "@twenty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_five_th_IQD_txt": "٢٥٠٠٠ دیناری عیراقی",
+  "@twenty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_th_IQD_txt": "٣٠٠٠٠ دیناری عیراقی",
+  "@thirty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_five_th_IQD_txt": "٣٥٠٠٠ دیناری عیراقی",
+  "@thirty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_th_IQD_txt": "٤٠٠٠٠  دیناری عیراقی",
+  "@forty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_five_th_IQD_txt": "٤٥٠٠٠  دیناری عیراقی",
+  "@forty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifty_th_IQD_txt": "٥٠٠٠٠  دیناری عیراقی",
+  "@fifty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sixty_th_IQD_txt": "٦٠٠٠٠  دیناری عیراقی",
+  "@sixty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seventy_th_IQD_txt": "٧٠٠٠٠  دیناری عیراقی",
+  "@seventy_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eighty_th_IQD_txt": "٨٠٠٠٠  دیناری عیراقی",
+  "@eighty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ninety_th_IQD_txt": "٩٠٠٠٠  دیناری عیراقی",
+  "@ninety_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hundred_th_IQD_txt": "١٠٠٠٠٠  دیناری عیراقی",
+  "@hundred_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialties_txt": "پسپۆڕییەکان",
+  "@specialties_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "best_doctors_txt": "بەرزترین پۆلێن",
+  "@best_doctors_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_result_txt": "هیچ ئەنجامێك نەدۆزرایەوە",
+  "@no_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigate_note_toast": "ناتوانیت بڕۆیت بۆ هەفتەکانی ڕابردوو",
+  "@navigate_note_toast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_available_txt": "بەردەست نییە",
+  "@not_available_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_reviews_txt": "سەردانیکردن",
+  "@dr_reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_details_txt": "وردەکاری",
+  "@dr_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_doctor_txt": "دەربارەی پزیشك",
+  "@about_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_pharmacist_txt": "دەربارەی دەرمانساز",
+  "@about_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_medical_assistant_txt": "دەربارەی پەرستار",
+  "@about_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer_txt": "ئۆڤەرەکان",
+  "@offer_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_for_txt": "کار ئەکات لای",
+  "@work_for_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_txt": "پسپۆڕی",
+  "@specialty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_txt": "ناونیشانی نۆڕینگە",
+  "@clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phones_txt": "ژمارەی تەلەفوون",
+  "@phones_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_days_txt": "ڕۆژانی کارکردن",
+  "@working_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_txt": "بەڵێ",
+  "@yes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_txt": "نەخیر",
+  "@no_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "custom_search_txt": "گەڕانی تایبەت",
+  "@custom_search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_result_txt": "ئەنجامی گەڕان",
+  "@search_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_txt": "چاوپێکەوتنەکان",
+  "@appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_load_txt": "ڕاکێشە بۆ داگرتنی زیاتر",
+  "@swipe_to_load_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_days_txt": "ڕۆژەکان",
+  "@the_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_prices_txt": "نرخەکان",
+  "@the_prices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_failed_txt": "نەتوانرا دابگیرێت",
+  "@loading_failed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_txt": "خەریکی داگرتنە...",
+  "@loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_more_data_txt": "داتای زیاتر بەردەست نییە",
+  "@no_more_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_province_city_txt": "پارێزگا یان شار هەڵبژێرە",
+  "@select_province_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_type_service_txt": "جۆری خزمەتگوزاری پزیشکی هەڵبژێرە",
+  "@select_type_service_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_price_txt": "نرخ هەڵبژێرە",
+  "@select_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_working_day_txt": "ڕۆژی کارکردن هەڵبژێرە",
+  "@select_working_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_on_map_txt": "پێشاندان لە سەر نەخشە",
+  "@show_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_locate_txt": "بۆ ڕێگەدان بەم ئاپە بۆ دیاری کردنی جێگای مۆبایل",
+        "@warning_allow_locate_txt": {
+          "type": "text",
+          "placeholders": {}
+   },
+   "my_location_txt": "جێگاکەم",
+       "@my_location_txt": {
+         "type": "text",
+         "placeholders": {}
+   },
+  "workplace_txt": "مكان العمل",
+  "@workplace_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "warning_allow_get_image_txt": "لكى تتمكن من ارسال الصور من فضلك قم بالسماح للتطبيق باستخدام مكتبة الصور اضغد ذهاب الى الاعدادت ادناه لكي تتمكن من ذلك",
+  "@warning_allow_get_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_appointments_txt": "چاوپێکەوتنەکانم",
+  "@my_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_appointments_txt": "هیچ چاوپێکەوتنێك بەردەست نییە",
+  "@there_are_no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_end_with_two_points_txt": "پزیشك :",
+  "@dr_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_end_with_two_points_txt": "پسپۆڕی :",
+  "@specialty_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_end_with_two_points_txt": "ناونیشانی نۆڕینگە :",
+  "@clinic_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_end_with_two_points_txt": "نرخی چاوپێکەوتن :",
+  "@check_up_price_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_txt": "نرخی چاوپێکەوتن",
+  "@check_up_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_end_with_two_points_txt": "ناوی دەرمانخانە :",
+  "@pharmacy_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_end_with_two_points_txt": "ناونیشانی دەرمانخانە :",
+  "@pharmacy_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_end_with_two_points_txt": "ناوی نۆڕینگە :",
+  "@clinic_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_end_with_two_points_txt": "ساڵانی ئەزموون :",
+  "@experience_years_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detection_price_txt": "نرخی چاوپێکەوتن",
+  "@detection_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_able_to_chat_txt": "تکایە تۆمار بکە بۆ ئەوەی بتوانیت چات بکەیت",
+  "@warning_able_to_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_workplace_on_map_txt": "پێشاندانی شوێنی ئیش لە سەر نەخشە",
+  "@show_workplace_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_offers_now_txt": "لە ئێستادا هیچ ئۆڤەرێک نییە",
+  "@no_offers_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_request_txt": "داواکردنی چاوپێکەوتن",
+  "@appointment_request_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waring_book_more_than_once_txt": "ناتوانیت زیاتر لە یەك جار حجز بکەیت لە هەمان ماوە",
+  "@waring_book_more_than_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_end_with_two_points_txt": "پزیشك :",
+  "@doctor_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_end_two_points_txt": "ماوەی کارکردن :",
+  "@working_period_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_times_end_two_points_txt": "کاتەکانی کارکردن :",
+  "@working_times_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from_txt": "لە",
+  "@from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to_txt": "بۆ",
+  "@to_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_appointments_end_with_two_points_txt": "هەموو چاوپێکەوتنەکان :",
+  "@all_appointments_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_appointments_txt": "هیچ چاوپێکەوتنێك بوونی نییە",
+  "@no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_in_this_day_txt": "چاوپێکەوتنەکانی ئەمڕۆ",
+  "@appointments_in_this_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest_txt": "سەردانکەر",
+  "@guest_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_found_txt": "نییە",
+  "@not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reserved_sequence_txt": "ڕیزی گیراو",
+  "@reserved_sequence_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_approval_txt": "چاوەڕوانکردن\nnڕەزامەندی",
+  "@waiting_for_approval_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_entry_txt": "چاوەڕوانکردن\nچوونە ژوورەوە",
+  "@waiting_for_entry_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_checking_txt": "ژێر\nپشکنین",
+  "@under_checking_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "test_completed_txt": "پشکنین\nتەواوبوو",
+  "@test_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_test_txt": "پشکنینی ڕەتکراو",
+  "@canceled_test_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_txt": "چاوەڕوانکردن",
+  "@waiting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_shift_txt": "دەوامی ئێواران",
+  "@evening_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_shift_txt": "دەوامی بەیانیان",
+  "@morning_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_choose_day_user_txt": "هەڵبژاردنی ڕۆژی حجز \n سەوز واتا ڕۆژی کارکردن \n قاوەیی واتا ڕۆژی پشوو",
+  "@warning_choose_day_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_register_reservation_txt": "تکایە تۆمار بکە بۆ ئەوەی بتوانیت حجز بکەیت",
+  "@warning_register_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_working_time_txt": "کاتی کارکردن تەواو بووە",
+  "@finished_working_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_book_txt": "کلك لێرە بکە بۆ حجز",
+  "@click_to_book_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_period_txt": "ماوە تەواو بووە",
+  "@finished_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_txt": "تەواو بوو",
+  "@finished_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginning_week_txt": "سەرەتای هەفتە",
+  "@beginning_week_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_activated_soon_txt": "بەم نزیکانە ئەکتیڤ ئەکرێت",
+  "@will_activated_soon_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hospitals_txt": "نەخۆشخانەکان",
+    "@hospitals_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "new_request_appointment_note_txt": " -تۆ ئێستا لە چاوەڕوانکردنی پزیشکیت بۆ ڕەزامەندیدان لە سەر داواکاری حجزکردن \n – لە هەندێ کەیسی پەلەدا، ڕەنگە  پزیشك  داواکارییەکەت بۆ حجزکردن ڕەتبکاتەوە یان بەرواری حجزەکەت بگۆڕێت، و لەو کاتەدا ئاگادار دەکرێیتەوە \n – ئەگەر ویستت داواکاری حجزەکەت ڕەتبکەیتەوە، تکایە کلك لە سەر ئایکۆنی ڕەتکردنەوەی حجز لە خوارەوە بکە یان پەیوەندی بە پزیشکەوە بکە و داوای لێ بکە کە حجزەکەت ڕەتبکاتەوە:",
+  "@new_request_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scheduled_appointment_note_txt": "-حجزەکەت لە لایەن پزیشکەوە پشتڕاسکرایەوە، ئێستا تۆ لە چاوەڕوانکردنی نۆرەتیت بۆ چوونەژوورەوە بۆ لای پزیشك بۆ ئەنجامدانی پشکنین (تاقیکردنەوە)  \n _ تکایە سەرنج بدە لە ئاگاداری زنجیرەکەت، کە پزییشك بۆت دەنێرێت بۆ ئەوەی دوا نەکەویت لە ئامادەبوونت لە نۆڕینگە  \n _ ئەگەر دواکەوتیتک ئەوا حجزەکە بە شێوەیەکی ئۆتۆماتیکی ڕەتدەکرێتەوە  \n _ ئەگەر ویستت حجزەکە ڕەتکەیتەوە، تکایە پەوەندی بە پزیشکەوە بکە لە ڕێگەی کلك کردنی ئایکۆنەکەی خوارەوە :  ",
+  "@scheduled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inprogress_appointment_note_txt": "تکایە ئامادە بە یان چاوپێکەوتنەکەت دەفەوتێت \n _ پزیشك ئێستا لە چاوەڕوانت دایە -",
+  "@inprogress_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_appointment_note_txt": "تیمی حجزەکانم هیوای چاکبوونەوەی خێرات بۆ دەخوازێت ان شاءالله \n _ ..تۆ ئێستا لە نۆڕینگە دەردەچیت \n _ .پشکنینی پزیشکی تەواو بوو _",
+  "@done_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_appointment_note_txt": "بە داوای لێبوردنەوە ئەمەت پێ ڕادەگەێینین، ئەم حجزە ڕەتکرایەوە",
+  "@canceled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_count_txt": "ژمارەی چاوپێکەوتنەکان",
+  "@appointments_count_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_number_canceled_reservation_txt": "هیچ ژمارەیەک بوونی نییە. حجزی ڕەتکراو",
+  "@no_number_canceled_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_txt": "ماوە حجز",
+  "@reservation_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_this_appointment_txt": "هەلسەنگاندنی ئەم چاوپێکەوتنە",
+  "@rate_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_txt": "هەلسەنگاندن",
+  "@evaluation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "press_on_star_to_set_rating_txt": "کلك لە سەر ئەستێرە بکە بۆ دیاری کردنی هەلسەنگاندنەکەت",
+  "@press_on_star_to_set_rating_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "we_are_sad_to_hear_that_txt": "ئێمە خەمبارین بە بیستنی ئەوە ):",
+  "@we_are_sad_to_hear_that_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes_txt": "تێبینییەکان",
+  "@notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_this_appointment_txt": "ڕەتکردنەوەی ئەم چاوپێکەوتنە",
+  "@cancel_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "chat_was_canceled_by_the_doctor_txt": "چاتەکە ڕەتکرایەوە \n لە لایەن پزیشکەوە",
+  "@chat_was_canceled_by_the_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowed_to_evaluate_the_appointment_once_txt": "هەڵسەنگاندنی چاوپێکەوتن تەنها یەک جار ڕێگەپێدراوە",
+  "@allowed_to_evaluate_the_appointment_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_successful_done_txt": "هەڵسەنگاندن بە سەرکەوتوویی ئەنجامدرا",
+  "@evaluation_successful_done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_appointments_txt": "چاوپێکەوتنی نوێ",
+  "@new_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews_txt": "سەردانيکردنەکان",
+  "@reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advices_txt": "ئامۆژگارییە پزیشکییەکان",
+  "@medical_advices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_info_txt": "زانیارییەکانی پزیشك",
+  "@doctor_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experiences_txt": "ئەزموونەکان",
+  "@experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enable_chat_txt": "ئەکتیڤ کردنی چات",
+  "@enable_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "on_txt": "ئەکتیڤ کراوە",
+  "@on_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "of_txt": "داخراوە",
+  "@of_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_cycle_between_weeks_txt": "کلك بکە بۆ گەڕان لە نێوان هەفتەکاندا",
+  "@click_to_cycle_between_weeks_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holiday_txt": "پشوو",
+  "@holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_holiday_txt": "ڕۆژی پشوو",
+  "@this_holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_number_txt": "ژمارەی چاوپێکەوتن",
+  "@appointment_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "see_more_txt": "زیاتر ببینە",
+  "@see_more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "set_new_time_txt": "دیاریکردنی کاتی نوێ",
+  "@set_new_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_found_txt": "هیچ تێبینییەك بوونی نییە",
+  "@no_notes_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_appointment_txt": "ئەتەوێت ئەم چاوپێکەونە پەسەند بکەیت؟",
+  "@warning_accept_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "has_been_approved_txt": "ڕەزامەندی درا",
+  "@has_been_approved_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_txt": "دووبارە دیاریکردنی کات",
+  "@reschedule_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_this_appointment_txt": "دووبارە دیاریکردنی کاتی ئەم چاوپێکەوتنە",
+  "@reschedule_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_revision_txt": "لە پێداچوونەوەدایە",
+  "@under_revision_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_appointment_set_as_completed_txt": "ئەم چاوپێکەوتنە وەکوو تەواوبوو دیاری کرا",
+  "@warning_appointment_set_as_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_set_appointment_to_be_completed_txt": "ئەتەوێت ئەم چاوپێکەوتنە وەکوو تەواوبوو دیاری بکرێت؟",
+  "@warning_set_appointment_to_be_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_appointment_txt": "ئەتەوێت ئەم چاوپێکەوتنە بە یەک جاری بسڕیتەوە (ناتوانرێت چاوپێکەوتن بگەڕێنرێتەوە ئەگەر سڕایەوە)؟",
+  "@warning_delete_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_later_appointments_txt": "چاوپێکەوتنی دواتر بەردەست نییە",
+  "@there_are_no_later_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_reschedule_appointment_txt": "ئەتەوێت دووبارە کاتی ئەم چاوپێکەوتنە دیاری بکەیت؟",
+  "@warning_reschedule_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_has_been_moved_to_the_Reviews_txt": "گوێزرایەوە بۆ بەشی سەردانیکردنەکان؟",
+  "@appointment_has_been_moved_to_the_Reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_transfer_appointment_to_the_review_txt": "ئەتەوێت چاوپێکەوتن بگوێزیتەوە بۆ سەردانیکردن؟ ",
+  "@warning_transfer_appointment_to_the_review_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discard_txt": "پاشگوێخستن",
+  "@discard_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted_txt": "پەسەند کرا",
+  "@accepted_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept_txt": "پەسەند کردن",
+  "@accept_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "views_txt": "بینینەکان",
+    "@views_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "pharmacist_info_txt": "زانیارییەکانی دەرمانساز",
+  "@pharmacist_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_details_txt": "وردەکارییەکانی دەرمانساز",
+  "@pharmacist_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_info_txt": "زانیارییەکانی پەرستار",
+  "@medical_assistant_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_details_txt": "وردەکارییەکانی پەرستار ",
+  "@medical_assistant_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "demo_txt": "تاقیکردن",
+  "@demo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country_txt": "وڵات هەڵبژێرە",
+    "@select_country_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+
+     "all_countries_txt": "هەموو وڵاتەکان",
+        "@all_countries_txt": {
+          "type": "text",
+          "placeholders": {}
+  },
+  "clinics_phonebook_txt": "ڕێبەری تەلەفوونی نۆڕینگەکان",
+           "@clinics_phonebook_txt": {
+             "type": "text",
+             "placeholders": {}
+ },
+
+ "search_in_clinics_phonebooks_txt": "گەڕان لە نێو ڕێبەری تەلەفوونی نۆڕینگەکان",
+                   "@search_in_clinics_phonebooks_txt": {
+                     "type": "text",
+                     "placeholders": {}
+    },
+
+  "doctor_details_txt": "وردەکارییەکانی پزیشك",
+            "@doctor_details_txt": {
+              "type": "text",
+              "placeholders": {}
+  },
+   "description_txt": "ناساندن",
+              "@description_txt": {
+                "type": "text",
+                "placeholders": {}
+    },
+  "additional_specialization_txt": "پسپۆڕی زیاتر",
+  "@additional_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "qualifications_txt": "توانستەکان",
+                "@qualifications_txt": {
+                 "type": "text",
+                 "placeholders": {}
+        },
+
+    "mobile_txt": "مۆبایل",
+                "@mobile_txt": {
+                "type": "text",
+                 "placeholders": {}
+        },
+  "sent_chat_msg_txt": "تم إرسال تنبيه بوجود رسالة جديدة",
+  "@sent_chat_msg_txt": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

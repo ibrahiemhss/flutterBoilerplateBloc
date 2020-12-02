@@ -1,0 +1,2224 @@
+{ "@@last_modified": "2019-12-23T20:52:46.498154",
+  "locale": "ar",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_name_txt": "حجوزاتى",
+  "@app_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_txt": "تطبيق",
+  "@app_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back_txt": "الخلف",
+  "@back_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_txt": "الرئيسيه",
+  "@home_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_txt": "بحث",
+  "@search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_txt": "الاسم",
+  "@name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_internet_txt": "لا يوجد اتصال بالإنترنت",
+  "@no_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_be_conncted_internet_txt": "يرجى التأكد من اتصال جهازك بالإنترنت",
+  "@warning_be_conncted_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "try_again_txt": "حاول مجددا",
+  "@try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_txt": "تأكيد",
+  "@confirm_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore_txt": "تجاهل",
+  "@ignore_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "follow_us_on_txt": "تابعنا على",
+     "@follow_us_on_txt": {
+       "type": "text",
+       "placeholders": {}
+     },
+  "facebook_txt": "فايسبوك",
+          "@facebook_txt": {
+            "type": "text",
+            "placeholders": {}
+    },
+  "instagram_txt": "الانستقرام",
+              "@instagram_txt": {
+                "type": "text",
+                "placeholders": {}
+    },
+  "address_end_two_points_txt": "العنوان :",
+  "@address_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_txt": "العنوان",
+  "@address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_end_two_points_txt": "الهاتف :",
+  "@phone_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_txt": "المدينه",
+  "@city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city_end_two_points_txt": "المدينه :",
+  "@city_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone_txt": "الهاتف",
+  "@phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat_txt": "دردشه",
+  "@chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chats_txt": "دردشات",
+  "@chats_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_login_or_register_txt": "يرجى تسجيل الدخول أو التسجيل",
+  "@warning_login_or_register_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "one_period_txt": "فتره واحده",
+  "@one_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_txt": "حذف",
+  "@delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details_txt": "التفاصيل",
+  "@details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close_txt": "إغلاق",
+  "@close_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "number_txt": "رقم",
+  "@number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_load_image_again_txt": "انقر لتحميل\nالصوره مره اخرى",
+  "@click_load_image_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh_txt": "تحديث",
+  "@refresh_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_txt": "التاريخ",
+  "@date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_edits_txt": "حفظ الاعدادت",
+  "@save_edits_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "code_is_being_sent_loading_txt": "جارى إرسال الكود ...",
+  "@code_is_being_sent_loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hint_phone_txt": "اكتب رقم الهاتف هنا باللغة الإنجليزية",
+  "@hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_hint_phone_txt": "رقم الهاتف الشخصي لا يظهر للمستخدمين",
+  "@dr_hint_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_appointment_txt": "اضافة موعد",
+  "@add_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unexpected_error_occurred_try_again_txt": "حدث خطأ غير متوقع ، يرجى المحاولة مرة أخرى",
+  "@unexpected_error_occurred_try_again_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_registration_txt": "تسجيل جديد",
+  "@new_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_txt": "تسجيل دخول",
+  "@log_in_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip_txt": "تخطى",
+  "@skip_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_txt": "يرجى اختيار رمز البلد أدناه اما في حقل الادخال فقط أدخل رقم الهاتف وبدون كود الدوله",
+  "@add_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_patient_txt": "تسجيل ك مراجع",
+  "@register_as_patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_doctor_txt": "تسجيل ك طبيب",
+  "@register_as_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_pharmacist_txt": "تسجيل ك صيدلي",
+  "@register_as_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register_as_medical_assistant_txt": "تسجيل ك مضمد",
+  "@register_as_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_no_data_txt": "لا يوجد بيانات حاول مره أخرى",
+  "@warning_no_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_problem_loading_data_txt": "هناك مشكلة في تحميل البيانات ، يرجى المحاولة لاحقًا",
+  "@warning_problem_loading_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_weak_internet_txt": "يبدو أن اتصالك بالإنترنت ضعيف جدًا",
+  "@warning_weak_internet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuation_txt": "استمرار....",
+  "@continuation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_in_registration_txt": "الاستمرار في التسجيل",
+  "@continue_in_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_location_not_found_txt": "لم يتم التعرف على العنوان. يرجى إضافة العنوان يدويا",
+  "@warning_location_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifying_working_info_txt": "تعديل معلومات العمل",
+  "@modifying_working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_info_txt": "معلومات العمل",
+  "@working_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saving_txt": "جاري الحفظ....",
+  "@saving_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submission_in_progress_txt": "جاري التسجيل.....",
+  "@submission_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "professional_practice_number_txt": "رقم شهادة الممارسة المهنية",
+  "@professional_practice_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_authority_txt": "جهة إصدار الشهادة المهنية",
+  "@certificate_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "graduation_date_txt": "تاريخ التخرج",
+  "@graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_issued_at_txt": "تاريخ إصدار الشهادة",
+  "@certificate_issued_at_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continue_txt": "استمر",
+  "@continue_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_name_txt": "يرجى التأكد من إدخال اسمك الكامل",
+  "@warning_add_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_address_txt": "يرجى التأكد من إدخال العنوان",
+  "@warning_enter_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_your_city_txt": "يرجى اختيار مدينتك",
+  "@choose_your_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_password_txt": "من فضلك أدخل كلمة المرور",
+  "@please_enter_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "warning_short_password_txt": "الرجاء أدخل كلمة مرور لا تقل عن ٦ أحرف",
+        "@warning_short_password_txt": {
+          "type": "text",
+          "placeholders": {}
+        },
+  "warning_ensure_enter_correct_password_txt": "يرجى التأكد من إعادة كتابة كلمة المرور بشكل صحيح",
+  "@warning_ensure_enter_correct_password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provinces_txt": "المحافظات",
+  "@provinces_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "province_txt": "محافظة",
+  "@province_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male_txt": "ذكر",
+  "@male_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female_txt": "انثى",
+  "@female_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undefined_txt": "غير محدد",
+  "@undefined_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender_txt": "اختر الجنس",
+  "@select_gender_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_choose_city": "يرجى اختيار مدينه",
+  "@please_choose_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_the_phone_city": "يرجى إدخال الهاتف",
+  "@please_enter_the_phone_city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "img_added_txt": "تمت إضافة الصورة",
+  "@img_added_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up_txt": "سجل",
+  "@sign_up_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_clinic_address_txt": "أدخل عنوان العيادة",
+  "@enter_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "practical_experiences_txt": "الخبرات والشهادات العملية",
+  "@practical_experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_checking_price_in_iraq_dinar_txt": "سعر الفحص الطبي (بالدينار العراقي)",
+  "@medical_checking_price_in_iraq_dinar_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_specialization_txt": "اختر التخصص",
+  "@select_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_txt": "اسم العيادة",
+  "@clinic_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_activate_chat_txt": "هل تريد تفعيل الدردشة؟",
+  "@ask_activate_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_phone_txt": "هاتف العيادة",
+  "@clinic_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_medical_specialization_txt": "يرجى إضافة التخصص الطبي",
+  "@add_medical_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_name_of_the_clinic_txt": "يرجى إضافة اسم العيادة",
+  "@add_the_name_of_the_clinic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_the_price_txt": "يرجى إضافة السعر",
+  "@add_the_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_phone_number_txt": "يرجى إضافة رقم هاتف العيادة",
+  "@add_clinic_phone_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_clinic_address_txt": "يرجى إضافة عنوان العيادة",
+  "@add_clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_txt": "سنوات الخبرة",
+  "@experience_years_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_in_btn": "تسجيل الدخول",
+  "@sign_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify_txt": "تحقق",
+  "@verify_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verification_in_progress_txt": "جارى التحقق...",
+  "@verification_in_progress_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_phone_txt": "(+x xxx-xxx-xxxx)رقم الهاتف بالانجليزيه",
+  "@empty_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_phone_txt": "الرجاء إدخال رقم الهاتف باللغة الإنجليزية",
+  "@enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_txt": "البريد الإلكتروني",
+  "@email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_txt": "كلمه السر",
+  "@password_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_img_btn": "أضف صورتك",
+  "@add_img_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_send_verifi_etxt": "سيتم إرسال رمز التحقق بعد لحظات قليلة",
+  "@will_send_verifi_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_code_etxt": "أدخل الرمز باللغة الإنجليزية فقط",
+  "@enter_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend_code_etxt": "أعد إرسال الرمز",
+  "@resend_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_sent_code_etxt": "إذا لم يصل الرمز ، من فضلك",
+  "@not_sent_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact_us_etxt": "اتصل بنا",
+  "@contact_us_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "contact_etxt": "اتصل",
+      "@contact_etxt": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "enter_name_etxt": "أدخل الاسم الثلاثي",
+  "@enter_name_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_phone_msg_code_etxt": "يرجى التحقق من هاتفك لمعرفة رمز التحقق",
+  "@check_phone_msg_code_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "re_enter_pass_etxt": "إعادة إدخال كلمة المرور",
+  "@re_enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_re_enter_pass_txt": "يرجى التأكد من إعادة كتابة كلمة المرور بشكل صحيح",
+  "@warning_re_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_enter_phone_txt": "يرجى التأكد من إضافة رقم الهاتف",
+  "@warning_enter_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_correct_phone_txt": "يرجى التأكد من إضافة رقم هاتف الصحيح",
+  "@warning_add_correct_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_select_city_txt": "انقر لتحديد المدينة",
+  "@click_select_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_residence_address_txt": "أدخل عنوان إقامتك",
+  "@enter_residence_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_email_txt": "أدخل بريدك الالكتروني",
+  "@enter_email_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "certificate_number_txt": "رقم الشهادة",
+  "@certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_professional_authority_txt": "يرجى إضافة جهة إصدار شهادة الممارسة المهنية",
+  "@warning_add_certificate_professional_authority_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_certificate_number_txt": "الرجاء إضافة رقم الشهادة",
+  "@warning_add_certificate_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_graduation_date_txt": "يرجى إضافة تاريخ التخرج",
+  "@warning_add_graduation_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy_policy_txt": "سياسة الخصوصيه",
+  "@privacy_policy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_privacy_txt": "لا يمكن التسجيل دون الموافقة على سياسة الخصوصية",
+  "@warning_accept_privacy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pharmacy_address_txt": "أدخل عنوان الصيدلية",
+  "@enter_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_txt": "اسم الصيدلة",
+  "@pharmacy_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_txt": "عنوان الصيدلية",
+  "@pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_phone_txt": "هاتف الصيدلية",
+  "@pharmacy_phone_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_the_pharmacy_address_txt": "يرجى إضافة عنوان الصيدلية",
+  "@warning_add_the_pharmacy_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_new_appointments_yet_txt": "لا توجد مواعيد جديدة بعد",
+  "@no_new_appointments_yet_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "true_txt": "صحيح",
+  "@true_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_txt": "فترة العمل",
+  "@working_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_txt": "الفترة الاولى",
+  "@first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_txt": "الفترة الثانية",
+  "@second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_period_txt": "فترة أخرى",
+  "@other_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_changed_work_times_txt": "هل أنت متأكد أنك قمت بتغيير أوقات العمل كما يناسبك ؟؟ ",
+  "@warning_changed_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workdays_txt": "أيام العمل",
+  "@workdays_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_adjust_working_times_txt": "يرجى التأكد من ضبط أوقات العمل كما يناسبك بدقة",
+  "@warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "default_warning_adjust_working_times_txt": "بشكل افتراضي ، تم تعيين ساعات العمل على النحو التالي ، يرجى تعديلها بما يناسبك",
+  "@default_warning_adjust_working_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restore_day_txt": "اعادة هذا اليوم",
+  "@restore_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_day_txt": "حذف هذا اليوم",
+  "@delete_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "restore_period_txt": "استعادة هذه الفترة",
+  "@return_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_work_txt": "بداية العمل",
+  "@start_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_work_txt": "نهاية العمل",
+  "@end_work_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_txt": "تعديل",
+  "@edit_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_txt": "تم",
+  "@done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_time_txt": "وقت البدء",
+  "@start_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "end_time_txt": "وقت النهاية",
+  "@end_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour_txt": "ساعة",
+  "@hour_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute_txt": "دقيقة",
+  "@minute_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_txt": "صباحا",
+  "@morning_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_txt": "مسائا",
+  "@evening_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_work_times_txt": "تعديل أوقات العمل",
+  "@edit_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_times_txt": "أوقات العمل",
+  "@work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_on_add_new_work_times_txt": "يرجى التأكد من أنك قمت بإجراء التغييرات المناسبة على أوقات عملك ، أو انقر فوق السابق",
+  "@warning_on_add_new_work_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_second_period_txt": "إضافة فترة ثانية",
+  "@add_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_second_period_txt": "إلغاء الفترة الثانية",
+  "@cancel_second_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_edit_birthdate_less20_txt": "لا يمكن تعديل تاريخ الميلاد لمدة تقل عن عشرين عامًا",
+  "@warning_edit_birthdate_less20_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday_txt": "السبت",
+  "@saturday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday_txt": "الأحد",
+  "@sunday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday_txt": "الإثنين",
+  "@monday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday_txt": "الثلاثاء",
+  "@tuesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday_txt": "الأربعاء",
+  "@wednesday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday_txt": "الخميس",
+  "@thursday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday_txt": "الجمعة",
+  "@friday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_username_etxt": "من فضلك ادخل هاتفك",
+  "@enter_username_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "log_in_btn": "تسجيل الدخول",
+  "@log_in_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_account_btn": "حساب جديد",
+  "@new_account_btn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot_pass_txt": "نسيت رقمك السري؟",
+  "@forgot_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_username_txt": "من فضلك ادخل هاتفك",
+  "@snack_bar_enter_username_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "snack_bar_enter_pass_txt": "من فضلك أدخل رقمك السري",
+  "@snack_bar_enter_pass_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_pass_etxt": "أدخل كلمة المرور",
+  "@enter_pass_etxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_times_txt": "اوقاتى",
+  "@my_times_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consulting_txt": "استشارات",
+  "@consulting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "international_services_txt": "الخدمات الدولية",
+  "@international_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_account_txt": "حسابي",
+  "@my_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_txt": "المزيد",
+  "@more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "msg_from_txt": "رسالة من",
+  "@msg_from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_reply_txt": "الرجاء إضافة الرد...",
+  "@warning_add_reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_closing_Hijozty_txt": "تأكيد إغلاق حجوزاتى",
+  "@confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warinig_confirm_closing_Hijozty_txt": "هل أنت متأكد أنك تريد اغلاق حجوزاتى؟",
+  "@warinig_confirm_closing_Hijozty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_phone_or_patient_name_txt": "أضف هاتفًا أو اسم المريض",
+  "@add_phone_or_patient_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_appointment_txt": "تأكيد الموعد",
+  "@confirm_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish_txt": "نشر",
+  "@publish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_title_txt": "الرجاء إدخال عنوان الموضوع",
+  "@please_enter_topic_title_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "please_enter_topic_content_txt": "الرجاء إدخال محتوى الموضوع",
+  "@please_enter_topic_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_topic_content_length_txt": "يجب أن يكون محتوى الموضوع 10 كلمات على الأقل",
+  "@warning_topic_content_length_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provide_advice_txt": "تقديم استشاره",
+  "@provide_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ask_for_advice_txt": "استشر",
+  "@ask_for_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "write_topic_detail_txt": "اكتب تفاصيل الموضوع",
+  "@write_topic_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "consultation_detail_txt": "تفاصيل الاستشاره",
+  "@consultation_detail_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reply_txt": "الرد",
+  "@reply_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_cancel_appointment_txt": "هل تريد حقًا إلغاء هذا الموعد؟",
+  "@warning_cancel_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_cancel_txt": "تأكيد الإلغاء",
+  "@confirm_cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic_txt": "عربى",
+  "@arabic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kurdish_txt": "كردي",
+  "@kurdish_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "russian_txt": "روسي",
+  "@russian_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english_txt": "English",
+  "@english_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "italy_txt": "Italy",
+  "@italy_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_delete_txt": "تأكيد الحذف",
+  "@confirm_delete_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_content_txt": "هل أنت متأكد أنك تريد حذف هذا المحتوى؟",
+  "@warning_delete_content_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "go_settings_txt": "اذهب للاعدادات",
+  "@go_settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "direct_contact_txt": "اتصال مباشر",
+  "@direct_contact_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "app_not_found_txt": "التطبيق غير موجود",
+  "@app_not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_choose_date_txt": "مرر لاختيار التاريخ",
+  "@swipe_to_choose_date_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "time_ago_txt": "وقت مضى",
+  "@time_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "you_have_chosen_txt": "لقد اخترت",
+  "@you_have_chosen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date_ago_txt": "تاريخ مضى",
+  "@date_ago_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recheck_txt": "إعادة تدقيق",
+  "@recheck_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_click_edit_rescheduling_txt": "لتأكيد إعادة الجدولة ، انقر فوق تعديل",
+  "@title_click_edit_rescheduling_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_not_possible_change_appointment_earlier_txt": "لا يمكن تغيير الموعد إلى وقت سابق",
+  "@warning_not_possible_change_appointment_earlier_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose_appropriate_period_by_clicking_on_the_period_txt": "اختر الفترة المناسبة لك من خلال النقر على هذه الفترة",
+  "@choose_appropriate_period_by_clicking_on_the_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_on_image_to_zoom_txt": "انقر على الصورة للتكبير",
+  "@click_on_image_to_zoom_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "undo_txt": "تراجع",
+  "@undo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_registration_txt": "تأكيد التسجيل",
+  "@confirm_registration_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_arrangement_error_periods_txt": "خطأ في الترتيب بين فترة الصباح وفترة المساء",
+  "@warning_arrangement_error_periods_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "correct_arrangement_txt": "الترتيب الصحيح",
+  "@correct_arrangement_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_end_of_the_first_period_txt": "نهاية الفترة الأولى",
+  "@the_end_of_the_first_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "period_work_n_line_txt": "فترة\nعمل",
+  "@period_work_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "first_period_n_line_txt": "فتره\nاولى",
+  "@first_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "second_period_n_line_txt": "فتره\nثانيه",
+  "@second_period_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong_arrangement_n_line_txt": "ترتيب\nخطأ",
+  "@wrong_arrangement_n_line_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_account_txt": "حساب شخصي",
+  "@personal_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_txt": "الاسم الكامل",
+  "@full_name_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "full_name_end_two_points_txt": "الاسم الكامل :",
+  "@full_name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_end_two_points_txt": "الاسم :",
+  "@name_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_end_two_points_txt": "تاريخ الميلاد :",
+  "@birthdate_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate_txt": "تاريخ الميلاد",
+  "@birthdate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender_end_two_points_txt": "الجنس :",
+  "@gender_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_end_two_points_txt": "البريد الإلكتروني :",
+  "@email_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_txt": "الوظيفه",
+  "@career_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "career_end_two_points_txt": "الوظيفه :",
+  "@career_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_image_txt": "احفظ الصورة",
+  "@save_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_personal_info_txt": "تعديل المعلومات الشخصية",
+  "@edit_personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete_account_txt": "حذف الحساب",
+  "@delete_account_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save_txt": "حفظ",
+  "@save_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personal_info_txt": "معلومات شخصية",
+  "@personal_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note_request_publication_ad_txt": "اتصل بنا لطلب نشر إعلان",
+  "@note_request_publication_ad_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "more_info_txt": "مزيد من المعلومات",
+  "@more_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "advertising_txt": "إعلان",
+  "@advertising_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report_txt": "إبلاغ",
+  "@report_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "like_txt": "إعجاب",
+  "@like_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dislike_txt": "إلغاء اعجاب",
+  "@dislike_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages_txt": "رسائل",
+  "@messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_messages_txt": "لا توجد رسائل",
+  "@no_messages_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other_user_txt": "مستخدم آخر",
+  "@other_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "a_long_time_txt": "وقت طويل",
+  "@a_long_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_see_more_details_txt": "انقر لرؤية المزيد من التفاصيل",
+  "@click_to_see_more_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending_txt": "جارى الإرسال....",
+  "@sending_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send_txt": "إرسال",
+  "@send_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleted_message_txt": "تم حذف هذه الرسالة",
+  "@deleted_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error_txt": "خطأ في الإتصال",
+  "@connection_error_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writing_now_txt": "يكتب الان....",
+  "@writing_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "last_seen_txt": "اخر ظهور",
+  "@last_seen_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active_since_txt": "نشط منذ",
+  "@active_since_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter_the_message_txt": "أدخل الرسالة....",
+  "@enter_the_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_message_txt": "إذا كنت ترغب في حذف هذه الرسالة ، انقر فوق حذف",
+  "@warning_delete_message_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advice_txt": "نصيحة طبية",
+  "@medical_advice_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_topic_txt": "أضف موضوع",
+  "@add_topic_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings_txt": "الإعدادات",
+  "@settings_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language_txt": "اللغة",
+  "@language_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_out_txt": "خروج",
+  "@sign_out_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share_txt": "شارك",
+  "@share_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_txt": "تقييم",
+  "@rate_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_for_updates_txt": "تحقق من وجود تحديثات",
+  "@check_for_updates_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "give_your_opinion_txt": "هل تريد أن تعطي رأيك في",
+  "@give_your_opinion_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support_center_txt": "مركز الدعم",
+  "@support_center_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_us_txt": "معلومات عنا",
+  "@about_us_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_txt": "إلغاء",
+  "@cancel_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_txt": "أُلغيت",
+  "@canceled_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status_txt": "الحالة",
+  "@status_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_txt": "العارض الرئيسى",
+  "@main_complaint_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "main_complaint_end_two_point_txt": ": العارض الرئيسى",
+  "@main_complaint_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_number_end_two_point_txt": ": رقم الحجز",
+  "@reservation_number_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_end_two_point_txt": ": فترة الحجز",
+  "@reservation_period_end_two_point_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_add_from_doctor_txt": "تمت إضافة هذا الموعد من قبل الطبيب داخل العيادة",
+  "@warning_add_from_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_txt": "لا توجد ملاحظات",
+  "@no_notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_data_found_txt": "لاتوجد بيانات",
+  "@no_data_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinics_txt": "عيادات",
+  "@clinics_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_tourism_txt": "سياحة طبية",
+  "@medical_tourism_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_cities_txt": "جميع المدن",
+  "@all_cities_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_txt": "طبيب",
+  "@doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "patient_txt": "مراجع",
+  "@patient_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_txt": "صيدلاني",
+  "@pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_txt": "مضمد",
+  "@medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_txt": "الكل",
+  "@all_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_services_txt": "الخدمات الطبية",
+  "@medical_services_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IQD_txt": "دينار عراقى",
+  "@IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "three_th_IQD_txt": "٣٠٠٠ دينار عراقى",
+  "@three_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "five_th_IQD_txt": "٥٠٠٠ دينار عراقى",
+  "@five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ten_th_IQD_txt": "١٠٠٠٠ دينار عراقى",
+  "@ten_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen_th_IQD_txt": "١٥٠٠٠ دينار عراقى",
+  "@fifteen_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_th_IQD_txt": "٢٠٠٠٠ دينار عراقى",
+  "@twenty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twenty_five_th_IQD_txt": "٢٥٠٠٠ دينار عراقى",
+  "@twenty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_th_IQD_txt": "٣٠٠٠٠ دينار عراقى",
+  "@thirty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thirty_five_th_IQD_txt": "٣٥٠٠٠ دينار عراقى",
+  "@thirty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_th_IQD_txt": "٤٠٠٠٠ دينار عراقى",
+  "@forty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forty_five_th_IQD_txt": "٤٥٠٠٠ دينار عراقى",
+  "@forty_five_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifty_th_IQD_txt": "٥٠٠٠٠ دينار عراقى",
+  "@fifty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sixty_th_IQD_txt": "٦٠٠٠٠ دينار عراقى",
+  "@sixty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seventy_th_IQD_txt": "٧٠٠٠٠ دينار عراقى",
+  "@seventy_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eighty_th_IQD_txt": "٨٠٠٠٠ دينار عراقى",
+  "@eighty_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ninety_th_IQD_txt": "٩٠٠٠٠ دينار عراقى",
+  "@ninety_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hundred_th_IQD_txt": "١٠٠٠٠٠ دينار عراقى",
+  "@hundred_th_IQD_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialties_txt": "التخصصات",
+  "@specialties_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "best_doctors_txt": "أعلى تصنيف",
+  "@best_doctors_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_result_txt": "لم يتم العثور على نتائج",
+  "@no_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigate_note_toast": "لا يمكنك التنقل في الأسابيع السابقة",
+  "@navigate_note_toast": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_available_txt": "غير متاح",
+  "@not_available_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_reviews_txt": "مراجعة",
+  "@dr_reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_details_txt": "تفاصيل",
+  "@dr_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_doctor_txt": "عن الطبيب",
+  "@about_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_pharmacist_txt": "عن الصيدلي",
+  "@about_pharmacist_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_medical_assistant_txt": "عن المضمد",
+  "@about_medical_assistant_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer_txt": "عروض",
+  "@offer_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "work_for_txt": "يعمل لدى",
+  "@work_for_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_txt": "تخصص",
+  "@specialty_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_txt": "عنوان العيادة",
+  "@clinic_address_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phones_txt": "هاتف",
+  "@phones_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_days_txt": "أيام العمل",
+  "@working_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_txt": "نعم",
+  "@yes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_txt": "لا",
+  "@no_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "custom_search_txt": "بحث مخصص",
+  "@custom_search_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_result_txt": "نتيجة البحث",
+  "@search_result_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_txt": "مواعيد",
+  "@appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "swipe_to_load_txt": "اسحب لتحميل أكثر",
+  "@swipe_to_load_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_days_txt": "الأيام",
+  "@the_days_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "the_prices_txt": "الأسعار",
+  "@the_prices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_failed_txt": "فشل التحميل",
+  "@loading_failed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_txt": "جار التحميل....",
+  "@loading_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_more_data_txt": "لايوجد المزيد من البيانات",
+  "@no_more_data_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_province_city_txt": "اختر المحافظه أو المدينة",
+  "@select_province_city_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_type_service_txt": "اختر نوع الخدمة الطبية",
+  "@select_type_service_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_price_txt": "اختر السعر",
+  "@select_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_working_day_txt": "اختر يوم العمل",
+  "@select_working_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_on_map_txt": "عرض على الخريطة",
+  "@show_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_allow_locate_txt": "يتطلب حجوزاتى الوصول إلى موقعك لتسهيل الوصول إلى خدمات التطبيق على الخريطة لتمكين إضافة عناوين المنزل والعمل وتحديد أقرب الخدمات المقدمة",
+        "@warning_allow_locate_txt": {
+          "type": "text",
+          "placeholders": {}
+   },
+   "my_location_txt": "موقعى",
+       "@my_location_txt": {
+         "type": "text",
+         "placeholders": {}
+   },
+  "workplace_txt": "مكان العمل",
+  "@workplace_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "warning_allow_get_image_txt": "لكى تتمكن من ارسال الصور من فضلك قم بالسماح للتطبيق باستخدام مكتبة الصور اضغد ذهاب الى الاعدادت ادناه لكي تتمكن من ذلك",
+  "@warning_allow_get_image_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_appointments_txt": "مواعيدى",
+  "@my_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_appointments_txt": "لا توجد مواعيد",
+  "@there_are_no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dr_end_with_two_points_txt": "دكتور :",
+  "@dr_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "specialty_end_with_two_points_txt": "التخصص :",
+  "@specialty_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_address_end_with_two_points_txt": "عنوان العيادة :",
+  "@clinic_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_end_with_two_points_txt": "سعر الكشف :",
+  "@check_up_price_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "check_up_price_txt": "سعر الكشف",
+  "@check_up_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_name_end_with_two_points_txt": "اسم الصيدلية :",
+  "@pharmacy_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacy_address_end_with_two_points_txt": "عنوان الصيدلية :",
+  "@pharmacy_address_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clinic_name_end_with_two_points_txt": "اسم العيادة :",
+  "@clinic_name_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience_years_end_with_two_points_txt": "سنوات الخبرة :",
+  "@experience_years_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detection_price_txt": "سعر الكشف",
+  "@detection_price_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_able_to_chat_txt": "يرجى التسجيل لتتمكن من الدردشة",
+  "@warning_able_to_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "show_workplace_on_map_txt": "عرض مكان العمل على الخريطة",
+  "@show_workplace_on_map_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_offers_now_txt": "لا توجد عروض الآن",
+  "@no_offers_now_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_request_txt": "طلب موعد",
+  "@appointment_request_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waring_book_more_than_once_txt": "لا يمكنك حجز أكثر من مرة في نفس الفترة",
+  "@waring_book_more_than_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_end_with_two_points_txt": "طبيب :",
+  "@doctor_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_period_end_two_points_txt": "فترة العمل :",
+  "@working_period_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "working_times_end_two_points_txt": "أوقات العمل :",
+  "@working_times_end_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from_txt": "من",
+  "@from_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to_txt": "الى",
+  "@to_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all_appointments_end_with_two_points_txt": "جميع المواعيد :",
+  "@all_appointments_end_with_two_points_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_appointments_txt": "لا توجد مواعيد",
+  "@no_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_in_this_day_txt": "مواعيد هذا اليوم",
+  "@appointments_in_this_day_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest_txt": "زائر",
+  "@guest_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_found_txt": "غير موجود",
+  "@not_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reserved_sequence_txt": "تسلسل محجوز",
+  "@reserved_sequence_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_approval_txt": "انتظار\nالموافقه",
+  "@waiting_for_approval_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_for_entry_txt": "انتظار\nالدخول",
+  "@waiting_for_entry_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_checking_txt": "تحت\nالفحص",
+  "@under_checking_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "test_completed_txt": "فحص\nمنتهى",
+  "@test_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_test_txt": "فحص ملغى",
+  "@canceled_test_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waiting_txt": "انتظار",
+  "@waiting_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evening_shift_txt": "دوام مسائى",
+  "@evening_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "morning_shift_txt": "دوام صباحي",
+  "@morning_shift_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_choose_day_user_txt": "اختيار يوم الحجز\nالأخضر يعني يوم عمل\nالرمادي يعني يوم عطلة",
+  "@warning_choose_day_user_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_register_reservation_txt": "يرجى التسجيل لتتمكن من الحصول على حجز",
+  "@warning_register_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_working_time_txt": "وقت العمل منتهى",
+  "@finished_working_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_book_txt": "انقر هنا للحجز",
+  "@click_to_book_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_period_txt": "فتره منتهيه",
+  "@finished_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished_txt": "منتهى",
+  "@finished_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginning_week_txt": "بداية الأسبوع",
+  "@beginning_week_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "will_activated_soon_txt": "سيتم تفعيلها قريبا",
+  "@will_activated_soon_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hospitals_txt": "مستشفيات",
+    "@hospitals_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "new_request_appointment_note_txt": "- أنت الآن في انتظار موافقة الطبيب على طلب الحجز. \n _ في بعض الحالات العاجلة ، قد يلغي الطبيب طلب الحجز الخاص بك أو يغير تاريخ حجزك وسيتم إعلامك في ذلك الوقت. \n - إذا كنت ترغب في إلغاء طلب الحجز ، فالرجاء الضغط على أيقونة إلغاء الحجز أدناه أو الاتصال بالطبيب واطلب منه إلغاء الحجز:",
+  "@new_request_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scheduled_appointment_note_txt": "- تم تأكيد حجزك من قبل الطبيب ، أنت الآن في انتظار دورك لدخول الطبيب لإجراء الاختبار (الفحص) .. \n يرجى الانتباه إلى إخطارات تسلسلك ، والتي سيرسلها لك الطبيب بحيث لا تتأخر عن حضور العيادة. \n _ إذا تأخرت ، فسيتم إلغاء الحجز تلقائيًا. \n - إذا كنت ترغب في إلغاء الحجز ، يرجى الاتصال بالطبيب من خلال النقر على الأيقونة أدناه:",
+  "@scheduled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inprogress_appointment_note_txt": "- الطبيب في انتظارك الآن. \n _ يرجى الحضور أو سيتم تفويت موعدك.",
+  "@inprogress_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done_appointment_note_txt": "_ اكتمل الفحص الطبي. \n _ أنت الآن تغادر العيادة .. \n _ فريق حجوزاتى يتمنى لك الشفاء العاجل إن شاء الله تعالى.",
+  "@done_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canceled_appointment_note_txt": "نأسف لإبلاغك بهذا ، تم إلغاء هذا الحجز",
+  "@canceled_appointment_note_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointments_count_txt": "عدد المواعيد",
+  "@appointments_count_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_number_canceled_reservation_txt": "لا يوجد رقم. حجز ملغى",
+  "@no_number_canceled_reservation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reservation_period_txt": "فترة الحجز",
+  "@reservation_period_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rate_this_appointment_txt": "تقييم هذا الموعد",
+  "@rate_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_txt": "تقييم",
+  "@evaluation_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "press_on_star_to_set_rating_txt": "اضغط على النجمة لتعيين تقييمك",
+  "@press_on_star_to_set_rating_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "we_are_sad_to_hear_that_txt": "نحن حزينون لسماع ذلك ):",
+  "@we_are_sad_to_hear_that_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes_txt": "ملاحظات",
+  "@notes_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel_this_appointment_txt": "إلغاء هذا الموعد",
+  "@cancel_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "chat_was_canceled_by_the_doctor_txt": "",
+  "@chat_was_canceled_by_the_doctor_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowed_to_evaluate_the_appointment_once_txt": "يسمح لتقييم الموعد مرة واحدة",
+  "@allowed_to_evaluate_the_appointment_once_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "evaluation_successful_done_txt": "تم التقييم بنجاح",
+  "@evaluation_successful_done_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_appointments_txt": "مواعيد جديدة",
+  "@new_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews_txt": "مراجعات",
+  "@reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_advices_txt": "نصائح طبية",
+  "@medical_advices_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doctor_info_txt": "معلومات الطبيب",
+  "@doctor_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experiences_txt": "خبرات",
+  "@experiences_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enable_chat_txt": "تفعيل الدردشة",
+  "@enable_chat_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "on_txt": "مفعل",
+  "@on_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "of_txt": "مغلق",
+  "@of_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "click_to_cycle_between_weeks_txt": "انقر للتنقل بين الأسابيع",
+  "@click_to_cycle_between_weeks_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holiday_txt": "عطلة",
+  "@holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_holiday_txt": "يوم عطله",
+  "@this_holiday_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_number_txt": "رقم الموعد",
+  "@appointment_number_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "see_more_txt": "شاهد المزيد",
+  "@see_more_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "set_new_time_txt": "تعيين وقت جديد",
+  "@set_new_time_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_notes_found_txt": "لا توجد ملاحظات",
+  "@no_notes_found_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_accept_appointment_txt": "هل تريد قبول هذا الموعد؟",
+  "@warning_accept_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "has_been_approved_txt": "تمت الموافقة",
+  "@has_been_approved_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_txt": "إعادة جدولة",
+  "@reschedule_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reschedule_this_appointment_txt": "إعادة جدولة هذا الموعد",
+  "@reschedule_this_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "under_revision_txt": "قيد المراجعة",
+  "@under_revision_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_appointment_set_as_completed_txt": "تم تعيين هذا الموعد على أنه مكتمل",
+  "@warning_appointment_set_as_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_set_appointment_to_be_completed_txt": "هل تريد تعيين هذا الموعد ليكون مكتمل؟",
+  "@warning_set_appointment_to_be_completed_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_delete_appointment_txt": "هل تريد حذف هذا الموعد نهائيًا (لا يمكن إرجاع الموعد إذا تم حذفه)؟",
+  "@warning_delete_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "there_are_no_later_appointments_txt": "لا توجد مواعيد لاحقة",
+  "@there_are_no_later_appointments_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_reschedule_appointment_txt": "هل تريد إعادة جدولة هذا الموعد؟",
+  "@warning_reschedule_appointment_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appointment_has_been_moved_to_the_Reviews_txt": "تم نقل الموعد إلى قسم المراجعات؟",
+  "@appointment_has_been_moved_to_the_Reviews_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_transfer_appointment_to_the_review_txt": "هل تريد نقل الموعد للمراجعة؟",
+  "@warning_transfer_appointment_to_the_review_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discard_txt": "تجاهل",
+  "@discard_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted_txt": "قُبلت",
+  "@accepted_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept_txt": "قبول",
+  "@accept_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "views_txt": "مشاهدات",
+    "@views_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+  "pharmacist_info_txt": "معلومات الصيدلي",
+  "@pharmacist_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pharmacist_details_txt": "تفاصيل الصيدلي",
+  "@pharmacist_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_info_txt": "معلومات المضمد",
+  "@medical_assistant_info_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medical_assistant_details_txt": "تفاصيل المضمد",
+  "@medical_assistant_details_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "demo_txt": "تجريب",
+  "@demo_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country_txt": "اختر الدولة",
+    "@select_country_txt": {
+      "type": "text",
+      "placeholders": {}
+    },
+
+     "all_countries_txt": "كل الدول",
+        "@all_countries_txt": {
+          "type": "text",
+          "placeholders": {}
+  },
+  "clinics_phonebook_txt": "دليل هواتف العيادات",
+           "@clinics_phonebook_txt": {
+             "type": "text",
+             "placeholders": {}
+ },
+
+ "search_in_clinics_phonebooks_txt": "البحث في دليل هواتف العيادات",
+                   "@search_in_clinics_phonebooks_txt": {
+                     "type": "text",
+                     "placeholders": {}
+    },
+
+  "doctor_details_txt": "تفاصيل الطبيب",
+            "@doctor_details_txt": {
+              "type": "text",
+              "placeholders": {}
+  },
+   "description_txt": "الوصف",
+              "@description_txt": {
+                "type": "text",
+                "placeholders": {}
+    },
+  "additional_specialization_txt": "تخصص إضافي",
+  "@additional_specialization_txt": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "qualifications_txt": "مؤهلات",
+                "@qualifications_txt": {
+                 "type": "text",
+                 "placeholders": {}
+        },
+
+    "mobile_txt": "الهاتف المحمول",
+                "@mobile_txt": {
+                "type": "text",
+                 "placeholders": {}
+        },
+  "sent_chat_msg_txt": "تم إرسال تنبيه بوجود رسالة جديدة",
+  "@sent_chat_msg_txt": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
